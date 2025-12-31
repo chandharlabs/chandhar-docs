@@ -3,9 +3,6 @@ site_description: Research, Innovation, and Product Development in Wireless and 
 site_author: Chandhar Research Labs Pvt Ltd
 site_url: https://docs.chandhar-labs.com
 
-repo_name: chandhar-research-labs/docs
-repo_url: https://github.com/chandhar-labs/docs
-edit_uri: edit/main/docs/
 
 theme:
   name: material
