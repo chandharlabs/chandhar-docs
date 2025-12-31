@@ -1,0 +1,109 @@
+site_name: Chandhar Research Labs Pvt Ltd
+site_description: Research, Innovation, and Product Development in Wireless and SDR Systems
+site_author: Chandhar Research Labs Pvt Ltd
+site_url: https://docs.chandhar-labs.com
+
+repo_name: chandhar-research-labs/docs
+repo_url: https://github.com/chandhar-labs/docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  logo: assets/images/logo.png   # optional
+  favicon: assets/images/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+
+nav:
+  - Home: index.md
+
+  - Products:
+      - 5-Nines Radio (5G Testbed): products/5-nines-radio.md
+      - Deep Radio: products/deep-radio.md
+      - Wi-Guy: products/wi-guy.md
+      - Loiter (5G Drone): products/loiter.md
+      - IoT Security Testbed: products/iot-security-testbed.md
+      - 5NR-NSMEC: products/5nr-nsmec.md
+      - 5G Enabled E-Vehicle: products/5g-ev.md
+      - 5NR-NSMEC (5G Network Slicing and MEC Emulator): nsmec/nsmec.md
+
+  - Books:
+      - Overview: books/index.md
+      - LTE Hands-On: books/lte-hands-on.md
+      - 5G NR Hands-On: books/5g-nr-hands-on.md
+
+
+  - Research:
+      - Overview: research/index.md
+      - Research Areas:
+          - 5G Use Cases: research/areas/5g-use-cases.md
+          - 5G Security: research/areas/5g-security.md
+          - 5G Enabled Drones: research/areas/5g-drones.md
+          - Deep Learning for Wireless: research/areas/dl-wireless.md
+          - Spectrum Management: research/areas/spectrum-management.md
+          - IoT Security: research/areas/iot-security.md
+      - Publications: research/publications.md
+      - Projects: research/projects.md
+      - Testbeds: research/testbeds.md
+
+  - Certification Programmes:
+      - Overview: certifications/index.md
+      - 5G End-to-End (Hands-On): certifications/5g-end-to-end.md
+
+
+  - Workshops:
+      - Overview: workshops/index.md
+      - Deep Learning for Wireless: workshops/Deep-Radio.md
+      - 5G Hands-On: workshops/5g-hands-on.md
+      - Academic FDPs: workshops/fdp.md
+      
+  
+
+  - Publications:
+      - Publications: publications/index.md
+      - Conferences: publications/conferences.md
+      - Whitepapers: publications/whitepapers.md
+
+  - Internships:
+      - Overview: internships/index.md
+      - Research Internships: internships/research.md
+      - Industry Internships: internships/industry.md
+
+  - Talks:
+      - Overview: talks/index.md
+      - Talks: talks/talks.md
+      - Tutorials: talks/tutorials.md
+      - Workshops: talks/workshops.md
+
+  
+  - About Us: about/company.md
+  - Contact Us: contact.md
+  - Gallery: more/gallery.md
+  - Links: more/links.md
+  - Saro Farms: more/saro farms.md
+  - CRFO: more/crfo.md
+
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+
+plugins:
+  - search
+
