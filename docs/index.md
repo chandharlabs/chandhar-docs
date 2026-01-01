@@ -113,5 +113,5 @@ We offer internships and research collaboration opportunities for:
 Interested in collaboration, training, research, or product deployment? [Contact Us](about/contact.md)
 
 Email: **info@chandhar-labs.com**  
-Location: **Mayiladthurai, Tamil Nadu, India**
+Location: **Mayiladuthurai, Tamil Nadu, India**
 
