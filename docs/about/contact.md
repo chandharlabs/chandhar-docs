@@ -4,8 +4,7 @@
 
 **Chandhar Research Labs Pvt. Ltd.**  
 1/302, Main Road, Arupathy (P.O)  
-Tharangambadi Taluk  
-Mayiladuthurai District  
+Tharangambadi Taluk, Mayiladuthurai District,  
 Tamil Nadu – 609309  
 
 Email: **info@chandhar-labs.com**   
