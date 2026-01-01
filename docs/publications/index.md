@@ -9,8 +9,8 @@ technical writings authored by researchers associated with
 ## Google Scholar Profile
 
 👉 **Google Scholar:**  
-*(Add direct Google Scholar profile link here)*
 
+👉 **[Chandhar Research Labs – Google Scholar Profile](https://scholar.google.co.in/citations?user=NL_MEEsAAAAJ&hl=en)**
 ---
 
 ## Publications Categories

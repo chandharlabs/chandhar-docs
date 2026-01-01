@@ -1,94 +1,94 @@
+# Past & Current Interns
 
+## 2023
 
-## Past & Current Interns
-
-### **2019**
-
-**Wi‑Guy Code Development**
-- Vikram Pai, Goa College of Engineering, Goa | *June–July 2019*  
-- Benhur Silva, Goa College of Engineering, Goa | *June–July 2019*  
-
-**Deep Radio GUI Development**
-- Aditya Gaitonde, Goa College of Engineering, Goa | *Dec 2019*  
+5G IoT Enabled Smart-Farm Management System  
+Atmanand Manoj Gauns, Goa College of Engineering, Goa | August 2023 - October 2023  
+Sahil Sharfuddin Shaikh, Goa College of Engineering, Goa | August 2023 - October 2023  
+Aiyaz Ahmed, Goa College of Engineering, Goa | August 2023 - October 2023  
+Aizaz Mulla, Goa College of Engineering, Goa | August 2023 - October 2023  
+Ramesh Dinesh Pai, Goa College of Engineering, Goa | August 2023 - October 2023  
 
 ---
 
-### **2020**
+## 2022
 
-**Massive MIMO‑based Drone Swarm Simulator**
-- Mukesh Gandhi, NIT Trichy | *May–July 2020*  
-- Vishwas Reddy, NIT Trichy | *May–July 2020*  
+Dynamic Spectrum Access  
+Winston Viswanathan, Goa College of Engineering, Goa | Mar 2022  
 
-**Dynamic Spectrum Access for CRFO**
-- Vinay U. Pai, BITS Pilani | *May–Aug 2020*  
-
----
-
-### **2021**
-
-**IoT Security Testbed Development**
-- Priyanka Jayakumar, VIT Vellore | *Feb–May 2021*  
-- Kunal Jhadav, Mahindra University | *Apr–July 2021*  
-- Anandhu Unnikrishnan, NIT Trichy | *May–July 2021*  
-- Aditi Bhagat, NIT Trichy | *May–July 2021*  
-- Nayana Jyothi, NIT Trichy | *May–July 2021*  
-- Kruti Hondocha, NIT Trichy | *May–July 2021*  
-- B.G.S. Ashuwin, NIT Trichy | *May–July 2021*  
-- Abhishek K, NIT Trichy | *May–July 2021*  
-- Adil Mohammed, NIT Trichy | *May–July 2021*  
-
-**Dynamic Spectrum Sharing**
-- Vikram Krishnakumar, SASTRA University | *Mar–July 2021*  
-- Vignesh G, SASTRA University | *Mar–July 2021*  
-- Ajay Sivakumar, SASTRA University | *Mar–July 2021*  
-
-**Shadow Lab App Development**
-- Vignesh M, SSN College of Engineering | *Aug–Oct 2021*  
-- Vignesh V, SSN College of Engineering | *Aug–Oct 2021*  
-
-**5G Security**
-- Charu Jain, SSN College of Engineering | *Apr–May 2021*  
-- Mohammed Aqeel Zaman, NIT Trichy | *Apr–July 2021*  
-
-**5G Channel Coding**
-- Kaushik Lakshmiramanan, SASTRA University | *May 2021*  
-- Sujith Krishna S, Amrita Vishwa Vidyapeetham | *May–July 2021*  
-
-**5G Core – Service Based Architecture**
-- Madhavan Madhu, NIT Trichy | *May–July 2021*  
-
-**5G Network Slicing**
-- Vaisnav Ashok, NIT Trichy | *May–July 2021*  
-- Vidya Dari, NIT Trichy | *May–July 2021*  
-- Manish Shankar Rangarajan, NIT Trichy | *May–July 2021*  
-
-**5G LMLC**
-- Hemanth S, NIT Calicut | *May–July 2021*  
-
-**5G MIMO Channel Model Implementation**
-- Nithin Eiswar V, NIT Trichy | *May–July 2021*  
-- Vignesh G, SASTRA University | *May 2021*  
+IoT Security  
+Gnanambhal S, Sastra University, Thanjavur | May 2022 - July 2022  
+Abhinaya J, National Institute of Technology Trichy | May 2022 - July 2022  
 
 ---
 
-### **2022**
+## 2021
 
-**Dynamic Spectrum Access**
-- Winston Viswanathan, Goa College of Engineering | *Mar 2022*  
+IoT Security Testbed Development  
+Priyanka Jayakumar, VIT, Vellore | Feb 2021 - May 2021  
+Kunal Jhadav, Mahindra University, Hyderabad | April 2021 - July 2021  
+Anandhu Unnikrishnan, National Institute of Technology Trichy | May 2021 - July 2021  
+Aditi Bhagat, National Institute of Technology Trichy | May 2021 - July 2021  
+Nayana Jyothi, National Institute of Technology Trichy | May 2021 - July 2021  
+Kruti Hondocha, National Institute of Technology Trichy | May 2021 - July 2021  
+B.G.S. Ashuwin, National Institute of Technology Trichy | May 2021 - July 2021  
+Abhishek K, National Institute of Technology Trichy | May 2021 - July 2021  
+Adil Mohammed, National Institute of Technology Trichy | May 2021 - July 2021  
 
-**IoT Security**
-- Gnanambhal S, SASTRA University | *May–July 2022*  
-- Abhinaya J, NIT Trichy | *May–July 2022*  
+Dynamic Spectrum Sharing  
+Vikram Krishnakumar, Sastra University, Thanjavur | March 2021 - July 2021  
+Vignesh G, Sastra University, Thanjavur | March 2021 - July 2021  
+Ajay Sivakumar, Sastra University, Thanjavur | March 2021 - July 2021  
+
+Shadow Lab App Development  
+Vignesh M, SSN College of Engineering, Chennai | Aug 2021 - Oct 2021  
+Vignesh V, SSN College of Engineering, Chennai | Aug 2021 - Oct 2021  
+
+5G Security  
+Charu Jain, SSN College of Engineering, Chennai | April 2021 - May 2021  
+Mohammed Aqeel Zaman, National Institute of Technology Trichy | April 2021 - July 2021  
+
+5G Channel Coding  
+Kaushik Lakshmiramanan, Sastra University, Thanjavur | May 2021 -  
+Sujith Krishna S, Amrita Vishwa Vidyapeetham, Coimbatore | May 2021 - July 2021  
+
+5G CN - Service Based Architecture  
+Madhavan Madhu, National Institute of Technology Trichy | May 2021 - July 2021  
+
+5G Network Slicing  
+Vaisnav Ashok, National Institute of Technology Trichy | May 2021 - July 2021  
+Vidya Dari, National Institute of Technology Trichy | May 2021 - July 2021  
+Manish Shankar Rangarajan, National Institute of Technology Trichy | May 2021 - July 2021  
+
+5G LMLC  
+Hemanth S, National Institute of Technology Calicut | May 2021 - July 2021  
+
+5G MIMO Channel Model Implementation  
+Nithin Eiswar V, National Institute of Technology Trichy | May 2021 - July 2021  
+Vignesh G, Sastra University, Thanjavur | May 2021  
 
 ---
 
-### **2023**
+## 2020
 
-**5G IoT Enabled Smart‑Farm Management System**
-- Atmanand Manoj Gauns, Goa College of Engineering | *Aug–Oct 2023*  
-- Sahil Sharfuddin Shaikh, Goa College of Engineering | *Aug–Oct 2023*  
-- Aiyaz Ahmed, Goa College of Engineering | *Aug–Oct 2023*  
-- Aizaz Mulla, Goa College of Engineering | *Aug–Oct 2023*  
-- Ramesh Dinesh Pai, Goa College of Engineering | *Aug–Oct 2023*  
+Massive MIMO-based Drone Swarm Simulator Development  
+Mukesh Gandhi, National Institute of Technology Trichy | May - Jul 2020  
+Vishwas Reddy, National Institute of Technology Trichy | May - Jul 2020  
 
+Dynamic Spectrum Access for CRFO  
+Vinay U. Pai, BITS Pilani | May - Aug 2020  
+
+---
+
+## 2019
+
+Wi-Guy Code Development  
+Vikram Pai, Goa College of Engineering, Goa | June - July 2019  
+Benhur Silva, Goa College of Engineering, Goa | June - July 2019  
+
+Deep Radio GUI Development  
+Aditya Gaitonde, Goa College of Engineering, Goa | Dec 2019  
+Pritesh Naik, Goa College of Engineering, Goa | Dec 2019  
+
+---
 
