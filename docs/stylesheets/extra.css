@@ -67,3 +67,22 @@
 }
 
 
+/* ===== Move company name closer to logo ===== */
+
+/* Reduce gap between logo and title */
+.md-header__inner {
+  gap: 0.4rem !important;   /* default is larger */
+}
+
+.md-header__title {
+  margin-left: -28px;
+}
+
+
+/* Optional: tighten logo button padding */
+.md-header__button.md-logo {
+  padding-right: 0.2rem !important;
+}
+
+
+
