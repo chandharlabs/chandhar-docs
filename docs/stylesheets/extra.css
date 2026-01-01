@@ -85,4 +85,70 @@
 }
 
 
+/* ===== MOBILE HEADER FIX ===== */
+@media (max-width: 768px) {
+
+  /* Reduce logo size on mobile */
+  .md-header__button.md-logo img,
+  .md-header__button.md-logo svg {
+    height: 42px !important;   /* desktop can stay 80px */
+  }
+
+  /* Reduce company name size on mobile */
+  .md-header__title {
+    font-size: 1.15rem !important;
+    letter-spacing: 0.4px;
+    margin-left: -6px !important;
+    white-space: nowrap;
+  }
+
+  /* Smaller Pvt Ltd on mobile */
+  .md-header__title small {
+    font-size: 0.7rem !important;
+    margin-left: 0.25rem;
+  }
+
+  /* Tighten logo + title spacing */
+  .md-header__inner {
+    gap: 0.25rem !important;
+  }
+
+  .md-header__button.md-logo {
+    padding-right: 0 !important;
+    margin-right: -2px !important;
+  }
+}
+
+/* ===============================
+   FIX HEADER COLOR MISMATCH
+   =============================== */
+
+/* Desktop header */
+.md-header {
+  background-color: #004aad !important;
+}
+
+/* Tabs (desktop) */
+.md-tabs {
+  background-color: #004aad !important;
+}
+
+/* Mobile top header */
+@media (max-width: 768px) {
+  .md-header {
+    background-color: #004aad !important;
+  }
+
+  /* Mobile drawer header (logo + title area) */
+  .md-nav__title {
+    background-color: #004aad !important;
+    color: #ffffff !important;
+  }
+
+  /* Ensure title text is white */
+  .md-nav__title,
+  .md-header__title {
+    color: #ffffff !important;
+  }
+}
 
