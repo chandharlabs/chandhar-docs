@@ -1,11 +1,69 @@
-/* Make page use full width */
-.wy-nav-content {
-    max-width: none !important;
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+/* Header title container */
+.md-header__title {
+  display: inline-flex !important;
+  align-items: baseline !important;
+  white-space: nowrap !important;
+
+  font-family: 'Anton', sans-serif;
+  font-size: 1.5rem;          /* BIG: Chandhar Research Labs */
+  letter-spacing: 0.6px;
+  font-weight: 400;
+  color: #ffffff;
 }
 
-/* Force logo size in MkDocs ReadTheDocs theme */
-.wy-side-nav-search a img {
-    max-width: 120px !important;   /* try 80px–140px */
-    height: auto !important;
+/* Smaller "Pvt Ltd" */
+.md-header__title small {
+  font-size: 0.85rem;         /* SMALL */
+  letter-spacing: 0.3px;
+  opacity: 1;
+  margin-left: 0.05rem;
 }
+
+
+/* Force center footer content in Material MkDocs */
+.md-footer__inner {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.md-footer-meta {
+  display: flex !important;
+  justify-content: center !important;
+  width: 100%;
+}
+
+.md-footer-meta__inner {
+  display: flex !important;
+  justify-content: center !important;
+  width: 100%;
+}
+
+.md-footer-copyright {
+  text-align: center !important;
+}
+/* ===== Header Logo + Company Name Improvements ===== */
+
+/* Increase header logo size */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 80px;   /* try 36–42px */
+  width: auto;
+}
+
+/*Header background color */
+.md-header {
+  background-color: #004aad !important;
+}
+/* Navigation tabs background */
+.md-tabs {
+  background-color: #004aad !important;
+}
+
+.md-header,
+.md-tabs {
+  color: #ffffff;
+}
+
 

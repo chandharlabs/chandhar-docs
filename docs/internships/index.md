@@ -17,8 +17,14 @@ Internship positions are available for **UG and PG students** in the areas of
 - SDR‑based Satellite Receiver  
 
 ---
+- [**Past & Current Internships**](past-current.md)
+- [**Visitng Scholars**](visiting-scholars.md)
+
+---
 
 ## How to Apply
 
 📧 Send your CV and area of interest to: **info@chandhar-labs.com**
+
+
 

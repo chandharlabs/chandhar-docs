@@ -1,4 +1,4 @@
-site_name: Chandhar Research Labs
+site_name: Chandhar Research Labs <small> Pvt. Ltd.</small>
 site_description: Research, Innovation, and Product Development in Wireless and SDR Systems
 site_author: Chandhar Research Labs Pvt Ltd
 site_url: https://docs.chandhar-labs.com
@@ -36,7 +36,7 @@ extra_css:
 nav:
   - Home: index.md
   - Research:
-      - Overview: research/index.md
+      - Research-Overview: research/index.md
       - Research Areas:
           - 5G Use Cases: research/areas/5g-use-cases.md
           - 5G Security: research/areas/5g-security.md
@@ -47,7 +47,7 @@ nav:
 
       
   - Products:
-      - Overview: products/index.md
+      - Products-Overview: products/index.md
       - 5-Nines Radio (5G Testbed): products/5-nines-radio.md
       - Deep Radio: products/deep-radio.md
       - Wi-Guy: products/wi-guy.md
@@ -58,18 +58,18 @@ nav:
 
 
   - Workshops:
-      - Overview: workshops/index.md
+      - Workshops-Overview: workshops/index.md
       - Deep Learning for Wireless: workshops/Deep-Radio.md
       - 5G Hands-On: workshops/5g-hands-on.md
 
   - Publications:
-      - Overview: publications/index.md
+      - Publications-Overview: publications/index.md
       - Books: publications/books-publications.md
       - Journal Publications: publications/journal-publications.md
       - Conference Publications: publications/conference-publications.md
 
   - Chandhar Research Press:
-      - Overview: press/index.md
+      - Chandhar Research Press-Overview: press/index.md
       - Journals:
         - JEWS: press/jews.md
       - Books:
@@ -83,21 +83,21 @@ nav:
       
 
   - Internships:
-      - Overview: internships/index.md
+      - Internships-Overview: internships/index.md
       - Past & Current Internships: internships/past-current.md
       - Visitng Scholars: internships/visiting-scholars.md
       
       
 
   - Talks:
-      - Overview: talks/index.md
+      - Talks-Overview: talks/index.md
       - Talks: talks/talks.md
       - Tutorials: talks/tutorials.md
       - Workshops: talks/workshops.md
  
   - About Us: 
-    - Overview: about/company.md
-    - Contact Us: contact.md
+    - About Us: about/company.md
+    - Contact Us: about/contact.md
   #- Gallery: more/gallery.md
   #- Links: more/links.md
   #- Saro Farms: more/saro farms.md
@@ -116,4 +116,7 @@ markdown_extensions:
 
 plugins:
   - search
+
+copyright: >
+  © 2018–2026 Chandhar Research Labs Pvt. Ltd. All rights reserved.
 
