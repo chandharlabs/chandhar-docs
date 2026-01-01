@@ -152,3 +152,170 @@
   }
 }
 
+/*
+.md-typeset .admonition.info {
+  border-left-color: #004aad;
+}
+
+.md-typeset .admonition.info > .admonition-title {
+  background-color: rgba(0, 74, 173, 0.1);
+  color: #004aad;
+}
+*/
+
+/* Table header */
+/* Table base */
+.md-typeset table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* Header */
+.md-typeset table thead th {
+  background-color: #004aad;
+  color: #ffffff;
+  padding: 10px;
+}
+
+/* Body cells */
+.md-typeset table td {
+  padding: 10px;
+  border: 1px solid #e0e0e0;
+}
+
+/* Alternate rows */
+.md-typeset table tbody tr:nth-child(even) {
+  background-color: #f2f6ff;
+}
+
+/* Hover effect */
+.md-typeset table tbody tr:hover {
+  background-color: #e6eeff;
+}
+
+.features {
+  color: #004aad;
+  
+}
+
+.specs {
+  color: #cc007e;
+  border-bottom: 2px solid #cc007e;
+}
+
+.warranty {
+  color: #2e7d32;
+  border-bottom: 2px solid #2e7d32;
+}
+.attr-test {
+  color: red !important;
+  font-weight: bold;
+}
+/*<h2 class="features">Features</h2>
+<h2 class="specs">Specifications</h2>
+<h2 class="warranty">Warranty</h2> */
+/* Page title (H1) */
+.md-typeset h1 {
+  color: #004aad;          /* your brand blue */
+}
+
+/* Main section headings (H2) */
+.md-typeset h2 {
+  color: #004aad;
+  
+  padding-bottom: 4px;
+}
+
+/* Sub‑section headings (H3) */
+.md-typeset h3 {
+  color: #004aad;          /* accent colour */
+}
+
+/* ===============================
+   Align all box (admonition) colors
+   with header background color
+   =============================== */
+
+/* INFO boxes */
+.md-typeset .admonition.info {
+  border-left-color: #004aad;
+}
+.md-typeset .admonition.info > .admonition-title {
+  background-color: rgba(0, 74, 173, 0.12);
+  color: #004aad;
+}
+
+/* SUCCESS boxes */
+.md-typeset .admonition.success {
+  border-left-color: #004aad;
+}
+.md-typeset .admonition.success > .admonition-title {
+  background-color: rgba(0, 74, 173, 0.12);
+  color: #004aad;
+}
+
+/* NOTE boxes */
+.md-typeset .admonition.note {
+  border-left-color: #004aad;
+}
+.md-typeset .admonition.note > .admonition-title {
+  background-color: rgba(0, 74, 173, 0.12);
+  color: #004aad;
+}
+
+/* WARNING / ATTENTION boxes (keep readable) */
+.md-typeset .admonition.warning,
+.md-typeset .admonition.attention {
+  border-left-color: #004aad;
+}
+.md-typeset .admonition.warning > .admonition-title,
+.md-typeset .admonition.attention > .admonition-title {
+  background-color: rgba(0, 74, 173, 0.12);
+  color: #004aad;
+}
+
+/* ===============================
+   Align border / outline color
+   with header background color
+   =============================== */
+
+/* Admonition (box) outer border */
+.md-typeset .admonition {
+  border-color: #004aad !important;
+}
+
+/* Left accent border (Material style) */
+.md-typeset .admonition {
+  border-left-color: #004aad !important;
+}
+/* ===============================
+   FIX TABLE LEFT BORDER COLOR
+   =============================== */
+
+/* Table outer border */
+.md-typeset table {
+  border: 1px solid #004aad;
+}
+
+/* Header cells */
+.md-typeset table th {
+  border: 1px solid #004aad;
+}
+
+/* Body cells */
+.md-typeset table td {
+  border: 1px solid #004aad;
+}
+
+/* FORCE LEFT BORDER (important) */
+.md-typeset table th:first-child,
+.md-typeset table td:first-child {
+  border-left: 1px solid #004aad !important;
+}
+
+
+/* Remove admonition icon ( ! inside circle ) */
+.md-typeset .admonition-title::before {
+  display: none !important;
+}
+

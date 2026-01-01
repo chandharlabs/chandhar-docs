@@ -14,4 +14,12 @@ for wireless communications, 5G/6G systems, IoT, and AI‑driven networks.
 - [**IoT Security Testbed**](iot-security-testbed.md): A testbed for security, privacy, and resilience analysis in IoT networks.
 - [**5NR‑NSMEC**](5nr-nsmec.md): 5G Network Slicing and Multi‑access Edge Computing (MEC) emulator.
 - [**5G Enabled E‑Vehicle**](5g-ev.md): A 5G‑integrated electric vehicle platform for V2X and smart mobility research.
+---
+
+!!! info "To Buy / Contact"
+    For purchase, pricing, and demos, contact:
+
+    Email: **info@chandhar-labs.com**  
+
+    Kindly mention the **product name** in your message.
 

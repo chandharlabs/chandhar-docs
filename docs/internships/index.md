@@ -22,9 +22,9 @@ Internship positions are available for **UG and PG students** in the areas of
 
 ---
 
-## How to Apply
+!!! success "How to Apply"
+      Send your **CV** and **area of interest** to: **info@chandhar-labs.com**
 
-📧 Send your CV and area of interest to: **info@chandhar-labs.com**
 
 
 

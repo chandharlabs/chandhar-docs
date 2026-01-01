@@ -16,8 +16,6 @@ theme:
     - navigation.sections
     - navigation.instant
     - navigation.top
-    - search.suggest
-    - search.highlight
     - content.code.copy
     - toc.integrate
   palette:
@@ -29,6 +27,8 @@ extra:
   generator: false
   toc_title: "On this page"
       
+markdown_extensions:
+  - attr_list
       
 extra_css:
   - stylesheets/extra.css
@@ -114,8 +114,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
 
-plugins:
-  - search
+plugins: []
 
 copyright: >
   © 2018–2026 Chandhar Research Labs Pvt. Ltd. All rights reserved.

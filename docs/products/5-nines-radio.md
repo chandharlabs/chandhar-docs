@@ -1,16 +1,21 @@
 # 5‑Nines Radio – 5G Testbed
 
+!!! info "Why the name Five‑Nines Radio?"
+    **Five‑Nines Radio** refers to a 5G radio communication system designed
+    to achieve a high level of reliability and availability, often measured
+    as **“five nines” (99.999% uptime)**. The main objective is to engineer the radio system to maintain
+    connectivity and communication capabilities with **minimal downtime**,
+    ensuring reliable operation even in **challenging environments or
+    adverse conditions**.
+
+
 **5‑Nines Radio** is a high‑reliability 5G testbed platform designed to evaluate
 ultra‑reliable low‑latency communication (URLLC) scenarios.
 
 
-## Why the name Five-Nines Radio?
 
-“Five-Nines Radio” refers to a 5G radio communication system designed to achieve a high level of reliability and availability, often measured as “five nines" or 99.999% uptime. The main objective is to engineer the radio system to maintain connectivity and communication capabilities with minimal downtime, ensuring reliable operation even in challenging environments or during adverse conditions.
 
-## Five-Nines Radio Architecture
-
-There are two operating modes of Five-Nines Radio:
+<h2 class="features">Five-Nines Radio Architecture</h2> There are two operating modes of Five-Nines Radio:
 
 - Five-Nines Radio – 5G Non-Stand Alone (NSA) mode
 - Five-Nines Radio – 5G Stand Alone (SA) mode
@@ -21,7 +26,7 @@ In SA mode, both the control-plane and user-plane traffic are handled by the gNB
 
 
 
-## Table 1. Components of Five-Nines Radio
+<h2 class="features">Table 1. Components of Five-Nines Radio</h2>
 
 | Components | Specifications |
 |-----------|----------------|
@@ -34,7 +39,8 @@ In SA mode, both the control-plane and user-plane traffic are handled by the gNB
 | Operating Band | B7 & n78 (2600 MHz & 3600 MHz) |
 | MIMO Support | 1x1 (eNB), 2x2 (gNB) |
 
-## Features
+<h2 class="features">Features</h2>
+
 
 The main features of Five-Nines Radio are as follows.
 
@@ -52,9 +58,9 @@ Moreover, the Five-Nines Radio is designed to support:
 - Student projects in academia
 - Build product prototypes
 
-## Five-Nines Radio: Support
+<h2 class="features">Support</h2>
 
-### Support
+
 
 One week of training every six months for three years at either customer premises or Chandhar Research Labs, Chennai. Support to faculty members in drafting lab, skilling, and tutorial manual for the proposed experiments will be provided.
 
@@ -78,10 +84,4 @@ We will provide support to organize faculty development programs in topics such 
 #### Research Collaboration
 
 Faculty members, UG and PG students, and research scholars can collaborate with Chandhar Research Labs on the development of 5G use cases including standard development and research publication in conferences and journals.
-
-
-
-#### What voids warranty
-
-If the product is subject to misuse, tampering, accident, water or fire damage, use of chemicals & soldered or altered in any way.
 

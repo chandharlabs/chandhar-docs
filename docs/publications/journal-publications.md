@@ -1,4 +1,4 @@
-## Journal Publications
+
 
 - **Elakkiya, T.; Gauni, S.; Chandhar, P.**,  “[Spectrum Occupancy Prediction using LSTM Models for Cognitive Radio Applications](https://www.tandfonline.com/doi/abs/10.1080/0954898X.2024.2393245),”  *Network: Computation in Neural Systems*, pp. 1–32, Sept. 2024.
 

@@ -1,4 +1,3 @@
-## Books
 
 - **Chandhar, P.** *Deep Radio: AI‑Driven Signal Processing for Wireless Communication Systems –  Theory, Techniques, and Real‑Time Over‑the‑Air Hands‑On SDR Projects with  Machine Learning, Deep Learning, and Python.*  
   Chandhar Research Press, 2025.  

@@ -1,17 +1,14 @@
 # Deep Radio
 
-## What is Deep Radio?
+Deep Radio is an SDR based platform, designed:
 
-Deep Radio is an SDR based platform designed by Chandhar Research Labs Pvt. Ltd.
-
-Deep Radio is designed:
 - To teach and learn the fundamentals of signal processing and wireless communications
 - To process real-time signals
 - To develop applications of deep learning in wireless domain
 
 ---
 
-## Features
+<h2 class="features">Features</h2>
 
 ### RF Signal Classification using Deep Radio
 
@@ -31,7 +28,7 @@ Deep Radio uses Python programming language due to its data handling capabilitie
 
 ---
 
-## Specifications
+<h2 class="features">Specifications</h2>
 
 ### Transceiver
 
@@ -66,7 +63,7 @@ Deep Radio uses Python programming language due to its data handling capabilitie
 
 ---
 
-## Sample Experiments
+<h2 class="features">Sample Experiments</h2>
 
 - 2G, 3G, 4G Live Spectrum/Bands monitoring
 - Live monitoring of GSM stations

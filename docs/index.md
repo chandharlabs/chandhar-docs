@@ -1,4 +1,4 @@
-# Chandhar Research Labs Pvt Ltd
+# Chandhar Research Labs Pvt. Ltd.
 
 **Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies** through Research, Product Development, Training, and Academic Collaboration.
 
@@ -108,10 +108,12 @@ We offer internships and research collaboration opportunities for:
 
 ---
 
-## Contact Us
 
-Interested in collaboration, training, research, or product deployment? [Contact Us](about/contact.md)
+!!! info "Contact Us"
+    Interested in **collaboration, training, research, or product deployment**?  
+    We’d be happy to hear from you.
 
-Email: **info@chandhar-labs.com**  
-Location: **Mayiladuthurai, Tamil Nadu, India**
+    Email: **info@chandhar-labs.com**    
+    Location: **Mayiladuthurai, Tamil Nadu, India**
+
 

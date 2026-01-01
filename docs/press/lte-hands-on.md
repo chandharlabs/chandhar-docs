@@ -8,12 +8,12 @@
 
 **Authors:**  
 Aravind Kilaru, KL University, Vijayawada  
-Prabhu Chandhar, Chandhar Research Labs Pvt Ltd, BaSig Wireless Laboratories Pvt Ltd  
+Prabhu Chandhar, Chandhar Research Labs Pvt. Ltd., BaSig Wireless Laboratories Pvt. Ltd.  
 
 **Edition:** First Edition, 2024  
 **Language:** English  
 **Format:** Paperback  
-**Publisher:** Chandhar Research Press (Imprint of Chandhar Research Labs Pvt Ltd), India  
+**Publisher:** Chandhar Research Press (Imprint of Chandhar Research Labs Pvt. Ltd.), India  
 **ISBN:** 978‑81‑982943‑9‑5  
 
 ---
