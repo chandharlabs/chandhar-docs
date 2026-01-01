@@ -2,7 +2,7 @@
 # Visiting Scholars
 
 Visiting scholars who have collaborated with
-**Chandhar Research Labs Pvt Ltd** on focused research problems.
+**Chandhar Research Labs Pvt. Ltd.** on focused research problems.
 
 ---
 

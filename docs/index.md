@@ -1,6 +1,6 @@
 # Chandhar Research Labs Pvt Ltd
 
-**Advancing 5G, 6G Wireless Communications, and AI‑Driven Radio Technologies** through Research, Product Development, Training, and Academic Collaboration.
+**Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies** through Research, Product Development, Training, and Academic Collaboration.
 
 ---
 
@@ -65,7 +65,7 @@ Our work is published in **IEEE journals and international conferences**.
 ---
 
 ## Chandhar Research Press
-**Chandhar Research Press** is the publishing imprint of **Chandhar Research Labs Pvt Ltd**.  
+**Chandhar Research Press** is the publishing imprint of **Chandhar Research Labs Pvt. Ltd.**  
  
 [More about Chandhar Research Press](press/index.md)
 

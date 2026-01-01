@@ -1,6 +1,6 @@
 # Books
 
-Books authored and published by **Chandhar Research Labs Pvt Ltd**
+Books authored and published by **Chandhar Research Labs Pvt. Ltd.**
 focus on **hands‑on learning, real testbeds, and practical wireless systems**.
 
 ---

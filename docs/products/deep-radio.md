@@ -2,7 +2,7 @@
 
 ## What is Deep Radio?
 
-Deep Radio is an SDR based platform designed by Chandhar Research Labs Pvt Ltd.
+Deep Radio is an SDR based platform designed by Chandhar Research Labs Pvt. Ltd.
 
 Deep Radio is designed:
 - To teach and learn the fundamentals of signal processing and wireless communications

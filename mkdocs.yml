@@ -59,7 +59,7 @@ nav:
 
   - Workshops:
       - Workshops-Overview: workshops/index.md
-      - Deep Learning for Wireless: workshops/Deep-Radio.md
+      - Deep Learning for Wireless: workshops/dl-wireless.md
       - 5G Hands-On: workshops/5g-hands-on.md
 
   - Publications:

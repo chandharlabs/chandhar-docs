@@ -1,6 +1,6 @@
 # Products
 
-Chandhar Research Labs Pvt Ltd develops **research‑grade platforms and testbeds**
+Chandhar Research Labs Pvt. Ltd. develops **research‑grade platforms and testbeds**
 for wireless communications, 5G/6G systems, IoT, and AI‑driven networks.
 
 ---

@@ -1,6 +1,6 @@
 # Workshops
 
-Chandhar Research Labs Pvt Ltd conducts **hands‑on, research‑oriented workshops**
+Chandhar Research Labs Pvt. Ltd. conducts **hands‑on, research‑oriented workshops**
 for students, faculty, researchers, and industry professionals in the
 domains of **5G, AI‑driven wireless systems, and advanced communication technologies**.
 
