@@ -1,4 +1,4 @@
-site_name: Chandhar Research Labs Pvt Ltd
+site_name: Chandhar Research Labs
 site_description: Research, Innovation, and Product Development in Wireless and SDR Systems
 site_author: Chandhar Research Labs Pvt Ltd
 site_url: https://docs.chandhar-labs.com
@@ -6,6 +6,9 @@ site_url: https://docs.chandhar-labs.com
 
 theme:
   name: material
+  font:
+    text: Inter
+    code: Roboto Mono
   logo: assets/images/logo.png   # optional
   favicon: assets/images/favicon.ico
   features:
@@ -13,33 +16,25 @@ theme:
     - navigation.sections
     - navigation.instant
     - navigation.top
-    - search.highlight
     - search.suggest
+    - search.highlight
     - content.code.copy
+    - toc.integrate
   palette:
     - scheme: default
       primary: indigo
-      accent: blue
+      accent: amber
+      
+extra:
+  generator: false
+  toc_title: "On this page"
+      
+      
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
-
-  - Products:
-      - 5-Nines Radio (5G Testbed): products/5-nines-radio.md
-      - Deep Radio: products/deep-radio.md
-      - Wi-Guy: products/wi-guy.md
-      - Loiter (5G Drone): products/loiter.md
-      - IoT Security Testbed: products/iot-security-testbed.md
-      - 5NR-NSMEC: products/5nr-nsmec.md
-      - 5G Enabled E-Vehicle: products/5g-ev.md
-      - 5NR-NSMEC (5G Network Slicing and MEC Emulator): nsmec/nsmec.md
-
-  - Books:
-      - Overview: books/index.md
-      - LTE Hands-On: books/lte-hands-on.md
-      - 5G NR Hands-On: books/5g-nr-hands-on.md
-
-
   - Research:
       - Overview: research/index.md
       - Research Areas:
@@ -49,46 +44,64 @@ nav:
           - Deep Learning for Wireless: research/areas/dl-wireless.md
           - Spectrum Management: research/areas/spectrum-management.md
           - IoT Security: research/areas/iot-security.md
-      - Publications: research/publications.md
-      - Projects: research/projects.md
-      - Testbeds: research/testbeds.md
 
-  - Certification Programmes:
-      - Overview: certifications/index.md
-      - 5G End-to-End (Hands-On): certifications/5g-end-to-end.md
+      
+  - Products:
+      - Overview: products/index.md
+      - 5-Nines Radio (5G Testbed): products/5-nines-radio.md
+      - Deep Radio: products/deep-radio.md
+      - Wi-Guy: products/wi-guy.md
+      - Loiter (5G Drone): products/loiter.md
+      - IoT Security Testbed: products/iot-security-testbed.md
+      - 5NR-NSMEC: products/5nr-nsmec.md
+      - 5G Enabled E-Vehicle: products/5g-ev.md
 
 
   - Workshops:
       - Overview: workshops/index.md
       - Deep Learning for Wireless: workshops/Deep-Radio.md
       - 5G Hands-On: workshops/5g-hands-on.md
-      - Academic FDPs: workshops/fdp.md
-      
-  
 
   - Publications:
-      - Publications: publications/index.md
-      - Conferences: publications/conferences.md
-      - Whitepapers: publications/whitepapers.md
+      - Overview: publications/index.md
+      - Books: publications/books-publications.md
+      - Journal Publications: publications/journal-publications.md
+      - Conference Publications: publications/conference-publications.md
+
+  - Chandhar Research Press:
+      - Overview: press/index.md
+      - Journals:
+        - JEWS: press/jews.md
+      - Books:
+        - LTE Hands-On: press/lte-hands-on.md
+        - 5G NR Hands-On: press/5g-nr-hands-on.md
+      - Standards & Specifications:
+        - YesDR Standard: press/yesdr.md
+
+
+
+      
 
   - Internships:
       - Overview: internships/index.md
-      - Research Internships: internships/research.md
-      - Industry Internships: internships/industry.md
+      - Past & Current Internships: internships/past-current.md
+      - Visitng Scholars: internships/visiting-scholars.md
+      
+      
 
   - Talks:
       - Overview: talks/index.md
       - Talks: talks/talks.md
       - Tutorials: talks/tutorials.md
       - Workshops: talks/workshops.md
-
-  
-  - About Us: about/company.md
-  - Contact Us: contact.md
-  - Gallery: more/gallery.md
-  - Links: more/links.md
-  - Saro Farms: more/saro farms.md
-  - CRFO: more/crfo.md
+ 
+  - About Us: 
+    - Overview: about/company.md
+    - Contact Us: contact.md
+  #- Gallery: more/gallery.md
+  #- Links: more/links.md
+  #- Saro Farms: more/saro farms.md
+  #- CRFO: more/crfo.md
 
 
 markdown_extensions:
