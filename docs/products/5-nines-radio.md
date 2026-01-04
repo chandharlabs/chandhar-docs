@@ -50,20 +50,20 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 | Feature | NSA Full | SA Standard | SA Compact | Lite |
 |-------|---------|-------------|------------|------|
 | **Processing Units** | 3 CPUs | 2 CPUs | 1 CPU | 1 CPU (Emulated) |
-| **SDR Units** | 2 | 1 | 1 | None |
-| **Smartphones** | 2 | 1 | 1 | None |
-| **IoT Bridge** | Yes | Yes | Yes | No |
+| **SDR Units** | 2 | 1 | 1 | - |
+| **Smartphones** | 2 | 1 | 1 | - |
+| **IoT Bridge** | Yes | Yes | Yes | - |
 | **gNB (5G NodeB)** | NSA: Rel 15<br>SA: Rel 17 | SA: Rel 17 | SA: Rel 17 | SA: Rel 17 (Emulated) |
 | **eNB (LTE NodeB)** | Yes (Rel 15) | – | – | – |
 | **Operating Frequency Band** | NSA: B7 & n78<br>(2600 MHz & 3600 MHz)<br>SA: n78 | n78 (3600 MHz) | n78 (3600 MHz) | – |
 | **eNB Bandwidth** | 5, 10, 20 MHz | – | – | – |
 | **gNB Bandwidth (Sub‑6 GHz)** | 20, 40 MHz | 20, 40 MHz | 20, 40 MHz | Emulated |
 | **Duplexing Mode** | eNB: FDD<br>gNB: TDD | gNB: TDD | gNB: TDD | Emulated |
-| **MIMO Support** | 1×1 | 1×1 | 1×1 | No |
+| **MIMO Support** | 2×2 | 2×2 | 2×2 | - |
 | **Typical Range** | 70 ft (LoS)<br>30 ft (NLoS) | 70 ft (LoS)<br>30 ft (NLoS) | 70 ft (LoS)<br>30 ft (NLoS) | Lab Only |
-| **Programmed SIM Cards** | 10 | 10 | 10 | None |
+| **Programmed SIM Cards** | 10 | 10 | 10 | - |
 | **Manual Operation** | Yes | Yes | Yes | Yes |
-| **3GPP Release Support** | Rel 15 (NSA)<br>Rel 17 (SA) | Rel 17 | Rel 17 | Rel 17 (Emulated) |
+| **3GPP Release Support** | Rel. 15 (NSA)<br>Rel. 17 (SA) | Rel. 17 | Rel. 17 | Rel. 17 |
 
 
 <h2 class="features">Features</h2>
