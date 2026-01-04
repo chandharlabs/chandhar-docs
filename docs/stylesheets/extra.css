@@ -152,6 +152,13 @@
   }
 }
 
+.md-header__title {
+  color: #ffffff;                 /* fill color */
+  -webkit-text-stroke: 0.05px #000000;  /* border thickness + color */
+}
+
+
+
 /*
 .md-typeset .admonition.info {
   border-left-color: #004aad;
