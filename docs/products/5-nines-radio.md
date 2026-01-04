@@ -37,6 +37,35 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 | Operating Band | B7 & n78 (2600 MHz & 3600 MHz) |
 | MIMO Support | 1x1 (eNB), 2x2 (gNB) |
 
+
+## 5‑Nines Radio Configurations
+
+- **NSA Full:** *CPUs:* 3(5G Core, gNB, eNB), *SDR Units:* 2, *Smartphones:* 2, *IoT Bridge:* Included, *Architecture Support:* 5G NSA and SA
+- **SA Standard:** *CPUs:* 2 (5G Core, gNB), *SDR Units:* 1, *Smartphones:* 1, *IoT Bridge:* Included, *Architecture Support:* 5G SA
+- **SA Compact:** *CPUs:* 1 (5G Core + gNB combined), *SDR Units:* 1, *Smartphones:* 1, *IoT Bridge:* Included, *Architecture Support:* 5G SA
+- **Lite:** *CPUs:* 1 (5G Core + gNB emulated + UE emulated), *Architecture Support:* Virtualized 5G emulation
+
+## Feature Comparison
+
+| Feature | NSA Full | SA Standard | SA Compact | Lite |
+|-------|---------|-------------|------------|------|
+| **Processing Units** | 3 CPUs | 2 CPUs | 1 CPU | 1 CPU (Emulated) |
+| **SDR Units** | 2 | 1 | 1 | None |
+| **Smartphones** | 2 | 1 | 1 | None |
+| **IoT Bridge** | Yes | Yes | Yes | No |
+| **gNB (5G NodeB)** | NSA: Rel 15<br>SA: Rel 17 | SA: Rel 17 | SA: Rel 17 | SA: Rel 17 (Emulated) |
+| **eNB (LTE NodeB)** | Yes (Rel 15) | – | – | – |
+| **Operating Frequency Band** | NSA: B7 & n78<br>(2600 MHz & 3600 MHz)<br>SA: n78 | n78 (3600 MHz) | n78 (3600 MHz) | – |
+| **eNB Bandwidth** | 5, 10, 20 MHz | – | – | – |
+| **gNB Bandwidth (Sub‑6 GHz)** | 20, 40 MHz | 20, 40 MHz | 20, 40 MHz | Emulated |
+| **Duplexing Mode** | eNB: FDD<br>gNB: TDD | gNB: TDD | gNB: TDD | Emulated |
+| **MIMO Support** | 1×1 | 1×1 | 1×1 | No |
+| **Typical Range** | 70 ft (LoS)<br>30 ft (NLoS) | 70 ft (LoS)<br>30 ft (NLoS) | 70 ft (LoS)<br>30 ft (NLoS) | Lab Only |
+| **Programmed SIM Cards** | 10 | 10 | 10 | None |
+| **Manual Operation** | Yes | Yes | Yes | Yes |
+| **3GPP Release Support** | Rel 15 (NSA)<br>Rel 17 (SA) | Rel 17 | Rel 17 | Rel 17 (Emulated) |
+
+
 <h2 class="features">Features</h2>
 
 
