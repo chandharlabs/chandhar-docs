@@ -8,3 +8,13 @@ security, privacy, and resilience of IoT networks.
 - Attack modeling
 - Network monitoring
 - Protocol vulnerability analysis
+
+---
+
+!!! info "To buy"
+    For purchase, pricing, and demos, contact:
+
+    Email: **info@chandhar-labs.com**  
+
+    Kindly mention the **product name** in your message.
+

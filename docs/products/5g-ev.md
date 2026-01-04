@@ -8,3 +8,13 @@ vehicular systems with next‑generation wireless networks.
 - Remote diagnostics
 - Edge‑assisted mobility
 - Smart transportation research
+
+---
+
+!!! info "To buy"
+    For purchase, pricing, and demos, contact:
+
+    Email: **info@chandhar-labs.com**  
+
+    Kindly mention the **product name** in your message.
+

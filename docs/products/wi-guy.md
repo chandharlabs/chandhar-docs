@@ -8,3 +8,13 @@ wireless communication fundamentals.
 - MAC layer behavior
 - Hands‑on SDR experiments
 - Academic and training usage
+
+---
+
+!!! info "To buy"
+    For purchase, pricing, and demos, contact:
+
+    Email: **info@chandhar-labs.com**  
+
+    Kindly mention the **product name** in your message.
+

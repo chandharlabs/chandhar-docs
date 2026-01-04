@@ -9,3 +9,13 @@ research, surveillance, and autonomous communication experiments.
 - Real‑time telemetry
 - MEC‑based applications
 
+
+---
+
+!!! info "To buy"
+    For purchase, pricing, and demos, contact:
+
+    Email: **info@chandhar-labs.com**  
+
+    Kindly mention the **product name** in your message.
+
