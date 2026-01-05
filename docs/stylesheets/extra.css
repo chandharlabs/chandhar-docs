@@ -340,4 +340,34 @@
   height: 100%;
 }
 
+.shorts-container {
+  position: relative;
+  width: 100%;
+  max-width: 360px;     /* phone-like width */
+  aspect-ratio: 9 / 16;
+  margin: 1rem auto;   /* center it */
+}
+
+.shorts-container iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px; /* optional, looks modern */
+}
+
+/* Book cover: left aligned and larger */
+.md-typeset img[alt="LTE Hands-On"] {
+  width: 500px;          /* increase size (try 340 / 380 / 420) */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;     /* left aligned (no auto) */
+}
+
+.md-typeset img[alt="5G NR Hands-On"] {
+  width: 500px;          /* increase size (try 340 / 380 / 420) */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;     /* left aligned (no auto) */
+}
 

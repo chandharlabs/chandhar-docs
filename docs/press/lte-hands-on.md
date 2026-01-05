@@ -2,6 +2,7 @@
 
 ![LTE Hands-On](lte.png)
 
+
 ---
 
 ## Book Details
@@ -59,3 +60,17 @@ a holistic view of LTE performance under real‑world conditions.
 - FFT‑based OFDM analysis  
 - Live OFDM signal transmission  
 - 4G network design and path‑loss analysis (UMi, UMa, SMa, RMa)
+
+---
+
+
+<div class="shorts-container">
+  <iframe
+    src="https://www.youtube.com/embed/8gFMnchm7Kc"
+    title="YouTube Short"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+

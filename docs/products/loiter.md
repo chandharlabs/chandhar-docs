@@ -9,6 +9,15 @@ research, surveillance, and autonomous communication experiments.
 - Real‑time telemetry
 - MEC‑based applications
 
+---
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/Vxqa7C_cYeA"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
