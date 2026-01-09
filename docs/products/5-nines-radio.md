@@ -40,9 +40,9 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 
 ## 5‑Nines Radio Configurations
 
-- **NSA Full:** *CPUs:* 3(5G Core, gNB, eNB), *SDR Units:* 2, *Smartphones:* 2, *IoT Bridge:* Included, *Architecture Support:* 5G NSA and SA
-- **SA Standard:** *CPUs:* 2 (5G Core, gNB), *SDR Units:* 1, *Smartphones:* 1, *IoT Bridge:* Included, *Architecture Support:* 5G SA
-- **SA Compact:** *CPUs:* 1 (5G Core + gNB combined), *SDR Units:* 1, *Smartphones:* 1, *IoT Bridge:* Included, *Architecture Support:* 5G SA
+- **NSA Full:** *CPUs:* 3(5G Core, gNB, eNB), *SDR Units:* 2, *Smartphones:* 2, *IoT Bridge*, *Architecture Support:* 5G NSA and SA
+- **SA Standard:** *CPUs:* 2 (5G Core, gNB), *SDR Units:* 1, *Smartphones:* 1, *IoT Bridge*, *Architecture Support:* 5G SA
+- **SA Compact:** *CPUs:* 1 (5G Core + gNB combined), *SDR Units:* 1, *Smartphones:* 1, *IoT Bridge*, *Architecture Support:* 5G SA
 - **Lite:** *CPUs:* 1 (5G Core + gNB emulated + UE emulated), *Architecture Support:* Virtualized 5G emulation
 
 ## Feature Comparison

@@ -12,13 +12,6 @@ wireless communication fundamentals.
 ---
 
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/t9M2-thJ6dM"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
 ---
 
 !!! info "To buy"
