@@ -9,7 +9,7 @@
 - Research‑driven protocol design
 - Academic and experimental deployments
 
-YesDR serves as a **reference standard** for education,
+YesDR serves as a reference standard for education,
 research, and system prototyping.
 
 Official documentation and specifications for the YesDR standard.  
