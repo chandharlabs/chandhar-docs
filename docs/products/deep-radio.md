@@ -12,20 +12,20 @@ Deep Radio is an SDR based platform, designed:
 <h2 class="features">Sample Experiments</h2>
 
 - 2G, 3G, 4G Live Spectrum/Bands monitoring
-- Live monitoring of GSM stations
-- Live monitoring of 4G LTE stations
-- Over-the-air transmission and reception of binary data using BPSK Modem
-- Verification of AWGN channel distribution
-- Verification of small-scale fading distribution
-- Autocorrelation of small-scale fading
+- Live monitoring of GSM and 4G LTE stations
+- Over-the-air transmission and reception using BPSK and QPSK Modems
+- Verification of AWGN and small-scale fading channel distributions
+- Verification of Autocorrelation Properties
 - In spectrum to capture and visualize GSM and LTE signals
+- OFDM Transmission and analysis
 - Processing GSM and LTE signals
-- Live FM transmitter
-- Transmission of BPSK, QPSK, GMSK, QAM, OFDM waveforms
-- Demodulating the FM stations
-- Wi‑Fi Jammer
+- Live AM and FM transmission and reception
+- Jammer for Cellular and WiFi Channels
 - Energy detection-based spectrum sensing
-- Spectrum analyzer
+- Spectrum analysis from 100MHz to 6GHz
+- ML based Spectrum activity Prediction
+- ML-DL based Modulation Classification(BPSK,QPSK,GMSK,16QAM,64QAM,etc.)
+- 5G Signal Generation and Transmission
 
 ---
 

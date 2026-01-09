@@ -71,7 +71,7 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 
 The main features of Five-Nines Radio are as follows.
 
-- Five-Nines Radio affordable for academic institutions
+- Affordable for academic institutions
 - User-friendly handling for faculty members and students
 - Highly scalable
 - Assured long-term technical and research support
@@ -84,6 +84,28 @@ Moreover, the Five-Nines Radio is designed to support:
 - Student projects in academia
 - Build product prototypes
 
+
+## Sample Academic Experiments
+- **Module 1: 5G Core & UE Procedures:**
+    - UE registration and PDU session establishment (SA & NSA)
+    - 5G authentication and security
+    - SBA traffic flow analysis using PCAP and REST APIs
+    - NGAP and PFCP message tracing
+- **Module 2: 5G RAN Protocol Stack**
+    - DU–CU split architecture
+    - Layer‑wise tracing (SDAP/PDCP/RLC/MAC/PHY)
+- **Module 3: 5G Physical Layer**
+    - OFDM, PDSCH, DMRS waveform generation
+    - Uplink and downlink channel characterization
+- **Module 4: Performance Optimization**
+    - Network slicing (eMBB, URLLC, mMTC)
+    - Link adaptation and CQI feedback
+    - TDD slot configuration impact
+    - SISO vs 2×2 MIMO performance
+- **Module 5: 5G + IoT + Edge**
+    - Raspberry Pi with 5G modem
+    - MQTT‑based IoT communication
+    - Machine‑type communication using dual 5G bridges
 <h2 class="features">Support</h2>
 
 
