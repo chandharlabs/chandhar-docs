@@ -1,7 +1,6 @@
 # YesDR Standard
 
-**YesDR (Your Extensible Software Defined Radio)** is an open,
-modular digital radio standard developed and published by
+**YesDR (Your Extensible Software Defined Radio)** is a modular digital radio standard developed by **Chandhar Research Labs Pvt. Ltd.** and published by
 **Chandhar Research Press**.
 
 ## Scope
