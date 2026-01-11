@@ -324,21 +324,7 @@
 }
 
 
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
 
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
 
 .shorts-container {
   position: relative;
@@ -369,5 +355,96 @@
   height: auto;
   display: block;
   margin: 1.5rem 0;     /* left aligned (no auto) */
+}
+
+/* =========================
+   VIDEO GALLERY GRID (2‑PER‑ROW)
+   ========================= */
+
+
+.md-typeset .video-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);   /* 2 columns */
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+/* Each video card */
+.md-typeset .video-gallery .video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;  /* 16:9 ratio */
+  height: 0;
+  overflow: hidden;
+  border-radius: none;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Iframe fills card */
+.md-typeset .video-gallery .video-container iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Hover effect */
+.md-typeset .video-gallery .video-container:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 34px rgba(0,0,0,0.22);
+}
+
+/* Mobile: 1 column */
+@media (max-width: 768px) {
+  .md-typeset .video-gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* =========================
+   REUSABLE 2‑COLUMN GALLERY
+   ========================= */
+
+/* Only affect images with .gallery */
+.md-typeset img.gallery {
+  float: left;
+  width: 48%;
+  margin: 0.75rem 1%;
+
+  height: 320px;
+  object-fit: cover;
+  border-radius: 12px;
+
+  /* Clean look */
+  filter: none !important;
+  mix-blend-mode: normal !important;
+  backdrop-filter: none !important;
+  opacity: 1 !important;
+
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect */
+.md-typeset img.gallery:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.22);
+}
+
+/* ✅ Clear floats when a horizontal rule follows */
+.md-typeset hr {
+  clear: both;
+}
+
+/* Mobile: 1 image per row */
+@media (max-width: 768px) {
+  .md-typeset img.gallery {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+    height: 240px;
+  }
 }
 

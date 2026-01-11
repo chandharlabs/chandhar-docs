@@ -28,7 +28,34 @@ Deep Radio is an SDR based platform, designed:
 - 5G Signal Generation and Transmission
 
 ---
+## Videos
 
+<div class="video-gallery">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/9CAHiYudRog" allowfullscreen></iframe>
+  </div>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/J-8PKwwRaDI" allowfullscreen></iframe>
+  </div>
+</div>
+
+
+<!-- ---
+
+## Deep Radio – Gallery
+
+![Deep Radio Setup](./Deepradio/img1.jpg){.gallery}
+![Deep Radio Experiment](./Deepradio/img2.jpg){.gallery}
+![Signal Processing Lab](./Deepradio/img3.jpg){.gallery}
+
+---
+!!! info "To buy"
+    For purchase, pricing, and demos, contact:
+    Email: **info@chandhar-labs.com**  
+    Kindly mention the **product name** in your message.
+-->
+
+---
 !!! info "To buy"
     For purchase, pricing, and demos, contact:
 

@@ -11,6 +11,13 @@ wireless communication fundamentals.
 
 ---
 
+## Videos
+
+<div class="video-gallery">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/9CAHiYudRog" allowfullscreen></iframe>
+  </div>
+</div>
 
 ---
 
