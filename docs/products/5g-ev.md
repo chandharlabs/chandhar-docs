@@ -11,14 +11,11 @@ vehicular systems with next‑generation wireless networks.
 
 ---
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/ahIloWcG9JU"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+<div class="video-gallery">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/ahIloWcG9JU" allowfullscreen></iframe>
+  </div>
 </div>
-
 
 
 ---

@@ -11,12 +11,10 @@ research, surveillance, and autonomous communication experiments.
 
 ---
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/Vxqa7C_cYeA"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+<div class="video-gallery">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/Vxqa7C_cYeA" allowfullscreen></iframe>
+  </div>
 </div>
 
 ---
