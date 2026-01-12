@@ -11,6 +11,13 @@ wireless communication fundamentals.
 
 ---
 
+## Product
+
+![Demo](images/wiguy.gif)
+![Demo](images/wiguy1.jpg)
+
+---
+
 ## Videos
 
 <div class="video-gallery">

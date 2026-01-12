@@ -118,7 +118,20 @@ Moreover, the Five-Nines Radio is designed to support:
 
 - **Research Collaboration**: Faculty members, UG and PG students, and research scholars can collaborate with Chandhar Research Labs on the development of 5G use cases including standard development and research publication in conferences and journals.
 
+
 ---
+
+## Product
+
+![Demo](images/5ninesradio.gif)
+![Demo](images/5nines1.jpg)
+
+
+
+
+
+---
+
 
 ## Videos
 
@@ -139,9 +152,7 @@ Moreover, the Five-Nines Radio is designed to support:
     <iframe src="https://www.youtube.com/embed/I5_PiAPpX9U" allowfullscreen></iframe>
   </div>
 </div>
----
 
-## Photos
 
 
 

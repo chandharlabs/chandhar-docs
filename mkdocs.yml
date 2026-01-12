@@ -18,6 +18,7 @@ theme:
     - navigation.top
     - content.code.copy
     - toc.integrate
+    - content.image.zoom
   palette:
     - scheme: default
       primary: indigo
@@ -29,6 +30,10 @@ extra:
       
 markdown_extensions:
   - attr_list
+  
+extra_javascript:
+  - javascripts/fullscreen.js
+
       
 extra_css:
   - stylesheets/extra.css

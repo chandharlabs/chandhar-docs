@@ -28,6 +28,13 @@ Deep Radio is an SDR based platform, designed:
 - 5G Signal Generation and Transmission
 
 ---
+
+## Product
+
+![Demo](images/deepradio.gif)
+![Demo](images/deepradio1.jpeg)
+
+---
 ## Videos
 
 <div class="video-gallery">
@@ -38,6 +45,7 @@ Deep Radio is an SDR based platform, designed:
     <iframe src="https://www.youtube.com/embed/J-8PKwwRaDI" allowfullscreen></iframe>
   </div>
 </div>
+
 
 
 <!-- ---

@@ -448,3 +448,141 @@
   }
 }
 
+/* =========================
+   PRODUCT DEMO – 2 COLUMNS
+   ========================= */
+
+/* Only affect demo images */
+.md-typeset img[alt="Demo"] {
+  float: left;
+  width: 48%;
+  margin: 0.75rem 1%;
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect */
+.md-typeset img[alt="Demo"]:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.22);
+}
+
+/* Clear floats after section */
+.md-typeset hr {
+  clear: both;
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 768px) {
+  .md-typeset img[alt="Demo"] {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
+
+/* =========================
+   CLICK → FULLSCREEN IMAGE
+   (No zoom, real fullscreen)
+   ========================= */
+
+/* =========================
+   FULLSCREEN IMAGE VIEWER
+   ========================= */
+
+/* Normal state */
+.md-typeset img[alt="Demo"] {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Fullscreen state */
+.md-typeset img.fullscreen {
+  position: fixed !important;
+  inset: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  object-fit: contain;
+  background: #000;
+  z-index: 10000;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 1rem;
+}
+
+/* Prevent page scroll when fullscreen */
+body.fullscreen-open {
+  overflow: hidden;
+}
+/* =========================
+   PRODUCT MEDIA UNIFORM SIZE
+   ========================= */
+
+/* Target only Product demo images */
+.md-typeset img[alt="Demo"] {
+  float: left;
+  width: 48%;
+  margin: 0.75rem 1%;
+  
+  /* Force same visual size */
+  height: 320px;          /* you can adjust this */
+  object-fit: cover;     /* fills area without distortion */
+  
+  border-radius: 12px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect */
+.md-typeset img[alt="Demo"]:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.22);
+}
+
+/* Clear floats after the section */
+.md-typeset hr {
+  clear: both;
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 768px) {
+  .md-typeset img[alt="Demo"] {
+    float: none;
+    width: 100%;
+    height: 240px;
+    margin: 1rem 0;
+  }
+}
+/* =========================
+   FULL VIEW OVERLAY
+   ========================= */
+
+.md-typeset img[alt="Demo"] {
+  cursor: pointer;
+}
+
+/* Fullscreen overlay state */
+.md-typeset img.demo-fullscreen {
+  position: fixed !important;
+  inset: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  object-fit: contain;        /* show full image, no crop */
+  background: #000;
+  z-index: 10000;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 1rem;
+}
+
+/* Prevent background scrolling */
+body.demo-fullscreen-open {
+  overflow: hidden;
+}
+
+
