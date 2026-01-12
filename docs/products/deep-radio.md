@@ -33,7 +33,7 @@ Deep Radio is an SDR based platform, designed:
 Click on images to view larger.
 
 
-![Demo](images/deepradio1.jpeg)
+![Demo](images/deepradio1.jpeg){data-caption="Deep Radio Testbed at KL University, Hyderabad Campus"}
 ![Demo](images/deepradio2.jpg)
 
 ---

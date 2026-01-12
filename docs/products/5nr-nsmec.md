@@ -12,6 +12,15 @@
 
 ---
 
+## Product
+Click on images to view larger.
+
+
+![Demo](images/mec1.jpg){data-caption="Multi-Access Edge Computing (MEC) at KL University, Hyderabad"}
+
+
+---
+
 !!! info "To buy"
     For purchase, pricing, and demos, contact:
 

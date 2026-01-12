@@ -124,8 +124,11 @@ Moreover, the Five-Nines Radio is designed to support:
 ## Product
 Click on images to view larger.
 
-![Demo](images/5nines1.jpg)
+![Demo](images/5nines1.jpg){data-caption="Five-Nines Radio Infrastructure at KL University, Hyderabad"}
 ![Demo](images/5nines2.jpg)
+![Demo](images/5nines18.jpeg){data-caption="Five-Nines Radio Infrastructure at KL University, Guntur"}
+![Demo](images/5nines19.jpeg)
+![Demo](images/5nines20.jpeg){data-caption="Five-Nines Radio Infrastructure at Mahindra University, Hyderabad"}
 ![Demo](images/5nines16.png)
 ![Demo](images/5nines3.png)
 ![Demo](images/5nines4.png)

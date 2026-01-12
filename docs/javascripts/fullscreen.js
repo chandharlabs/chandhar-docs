@@ -2,14 +2,12 @@ let images = [];
 let currentIndex = -1;
 let isFullscreen = false;
 
-// Global click handler (works with MkDocs dynamic pages)
+// Global click handler (MkDocs dynamic safe)
 document.addEventListener("click", function (e) {
   const img = e.target;
-
   if (!img.matches('img[alt="Demo"]')) return;
 
   const alreadyOpen = img.classList.contains("demo-fullscreen");
-
   closeFullscreen(false);
 
   if (!alreadyOpen) {
@@ -24,14 +22,14 @@ document.addEventListener("keydown", function (e) {
   if (e.key === "ArrowLeft") showPrev();
 });
 
-// Handle browser Back button
+// Browser back button closes fullscreen
 window.addEventListener("popstate", function () {
   if (isFullscreen) {
-    closeFullscreen(false);   // Close fullscreen instead of navigating back
+    closeFullscreen(false);
   }
 });
 
-// Load images when page is ready
+// Initial load
 document.addEventListener("DOMContentLoaded", function () {
   images = Array.from(document.querySelectorAll('img[alt="Demo"]'));
 });
@@ -44,9 +42,53 @@ function openFullscreen(img) {
   img.classList.add("demo-fullscreen");
   document.body.classList.add("demo-fullscreen-open");
 
-  // Push state so Back button closes fullscreen
+  // Push history so Back button closes fullscreen
   history.pushState({ demoFullscreen: true }, "");
 
+  addControls();
+  showCaption(img);
+}
+
+function closeFullscreen(triggerBack) {
+  if (!isFullscreen) return;
+
+  document.querySelectorAll("img.demo-fullscreen").forEach(i => {
+    i.classList.remove("demo-fullscreen");
+  });
+  document.body.classList.remove("demo-fullscreen-open");
+  document.querySelectorAll(".demo-close-btn, .demo-nav-btn, .demo-caption").forEach(el => el.remove());
+
+  isFullscreen = false;
+  currentIndex = -1;
+
+  if (triggerBack) {
+    history.back();
+  }
+}
+
+function showNext() {
+  if (currentIndex === -1) return;
+  currentIndex = (currentIndex + 1) % images.length;
+  switchImage();
+}
+
+function showPrev() {
+  if (currentIndex === -1) return;
+  currentIndex = (currentIndex - 1 + images.length) % images.length;
+  switchImage();
+}
+
+function switchImage() {
+  document.querySelectorAll("img.demo-fullscreen").forEach(i => {
+    i.classList.remove("demo-fullscreen");
+  });
+
+  const img = images[currentIndex];
+  img.classList.add("demo-fullscreen");
+  showCaption(img);
+}
+
+function addControls() {
   // Close button
   const closeBtn = document.createElement("div");
   closeBtn.className = "demo-close-btn";
@@ -69,40 +111,18 @@ function openFullscreen(img) {
   document.body.appendChild(nextBtn);
 }
 
-function closeFullscreen(triggerBack) {
-  if (!isFullscreen) return;
+function showCaption(img) {
+  // Remove old caption
+  const oldCaption = document.querySelector(".demo-caption");
+  if (oldCaption) oldCaption.remove();
 
-  document.querySelectorAll("img.demo-fullscreen").forEach(i => {
-    i.classList.remove("demo-fullscreen");
-  });
-  document.body.classList.remove("demo-fullscreen-open");
-  document.querySelectorAll(".demo-close-btn, .demo-nav-btn").forEach(el => el.remove());
+  // Read caption from data attribute
+  const captionText = img.getAttribute("data-caption");
+  if (!captionText) return; // Only show for images that have text
 
-  isFullscreen = false;
-  currentIndex = -1;
-
-  // If user clicked ❌ or pressed ESC, remove history state
-  if (triggerBack) {
-    history.back();
-  }
-}
-
-function showNext() {
-  if (currentIndex === -1) return;
-  currentIndex = (currentIndex + 1) % images.length;
-  switchImage();
-}
-
-function showPrev() {
-  if (currentIndex === -1) return;
-  currentIndex = (currentIndex - 1 + images.length) % images.length;
-  switchImage();
-}
-
-function switchImage() {
-  document.querySelectorAll("img.demo-fullscreen").forEach(i => {
-    i.classList.remove("demo-fullscreen");
-  });
-  images[currentIndex].classList.add("demo-fullscreen");
+  const caption = document.createElement("div");
+  caption.className = "demo-caption";
+  caption.innerText = captionText;
+  document.body.appendChild(caption);
 }
 
