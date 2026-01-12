@@ -14,8 +14,8 @@ wireless communication fundamentals.
 ## Product
 Click on images to view larger.s
 
-![Demo](images/wiguy1.jpg){data-caption="Deep Radio – Wi-Guy Lab | KL University, Hyderabad"}
-![Demo](images/wiguy2.jpg)
+![Demo](images/wiguy1.jpg){data-caption="Deep Radio – Wi-Guy at KL University, Hyderabad"}
+![Demo](images/wiguy2.jpg){data-caption="Deep Radio – Wi-Guy at KL University, Hyderabad"}
 
 ---
 
