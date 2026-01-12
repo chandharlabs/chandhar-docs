@@ -122,7 +122,7 @@ Moreover, the Five-Nines Radio is designed to support:
 ---
 
 ## Product
-click on images to view larger
+Click on images to view larger.
 
 ![Demo](images/5nines1.jpg)
 ![Demo](images/5nines2.jpg)

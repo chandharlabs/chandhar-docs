@@ -12,7 +12,7 @@ wireless communication fundamentals.
 ---
 
 ## Product
-click on images to view larger
+Click on images to view larger.s
 
 ![Demo](images/wiguy1.jpg)
 ![Demo](images/wiguy2.jpg)

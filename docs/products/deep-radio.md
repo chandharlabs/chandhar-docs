@@ -30,7 +30,7 @@ Deep Radio is an SDR based platform, designed:
 ---
 
 ## Product
-click on images to view larger
+Click on images to view larger.
 
 
 ![Demo](images/deepradio1.jpeg)
