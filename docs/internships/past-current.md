@@ -1,7 +1,7 @@
 # Past & Current Interns
 ## 2025
 
-**5G Network Slicing and YeSDR Standard Devlopment**  
+**5G Network Slicing and YESDR Standard Devlopment**  
 P Pattabiram, KL University, Guntur | May 2025 - June 2025  
 Malyala Shiva Kumar, KL University, Guntur | May 2025 - June 2025  
 Varun Nadella, KL University, Guntur | May 2025 - June 2025

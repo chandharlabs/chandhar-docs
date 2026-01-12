@@ -100,7 +100,7 @@ We offer internships and research collaboration opportunities for:
 ## Quick Links
 
 - [JEWS - Journal of Experimental Wireless Systems](https://jewsjournal.org)
-- [YesDR Standard](https://yesdr-standard.org)
+- [YESDR Standard](https://yesdr-standard.org)
 - [GitHub – Chandhar Research Labs](https://github.com/chandharlabs)
 - [Kaggle – Chandhar Research Labs](https://www.kaggle.com/chandharlabs)
 - [Youtube - Chandhar Research Labs](https://www.youtube.com/ChandharResearchLabs/videos)
