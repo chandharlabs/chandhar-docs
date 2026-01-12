@@ -448,74 +448,38 @@
   }
 }
 
+
+
+
+
+
 /* =========================
-   PRODUCT DEMO – 2 COLUMNS
+   PRODUCT DEMO – GRID
    ========================= */
 
-/* Only affect demo images */
 .md-typeset img[alt="Demo"] {
   float: left;
-  width: 48%;
+  width: 32%;              /* 3 per row (change to 48% for 2 per row) */
   margin: 0.75rem 1%;
-  height: auto;
-  border-radius: 12px;
-  object-fit: cover;
+  height: 320px;
+  object-fit: cover;      /* uniform card size */
+  border-radius: none;
+  cursor: pointer;
   box-shadow: 0 8px 22px rgba(0, 0, 0, 0.15);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Hover effect */
 .md-typeset img[alt="Demo"]:hover {
   transform: translateY(-4px);
   box-shadow: 0 14px 34px rgba(0, 0, 0, 0.22);
 }
 
-/* Clear floats after section */
+/* Clear floats */
 .md-typeset hr {
   clear: both;
 }
 
-/* Mobile: stack vertically */
-@media (max-width: 768px) {
-  .md-typeset img[alt="Demo"] {
-    float: none;
-    width: 100%;
-    margin: 1rem 0;
-  }
-}
-
-
-/* =========================
-   PRODUCT MEDIA UNIFORM SIZE
-   ========================= */
-
-/* Target only Product demo images */
-.md-typeset img[alt="Demo"] {
-  float: left;
-  width: 48%;
-  margin: 0.75rem 1%;
-  
-  /* Force same visual size */
-  height: 320px;          /* you can adjust this */
-  object-fit: cover;     /* fills area without distortion */
-  
-  border-radius: 12px;
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.15);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-/* Hover effect */
-.md-typeset img[alt="Demo"]:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.22);
-}
-
-/* Clear floats after the section */
-.md-typeset hr {
-  clear: both;
-}
-
-/* Mobile: stack vertically */
+/* Mobile: stack */
 @media (max-width: 768px) {
   .md-typeset img[alt="Demo"] {
     float: none;
@@ -524,21 +488,17 @@
     margin: 1rem 0;
   }
 }
+
 /* =========================
    FULL VIEW OVERLAY
    ========================= */
 
-.md-typeset img[alt="Demo"] {
-  cursor: pointer;
-}
-
-/* Fullscreen overlay state */
 .md-typeset img.demo-fullscreen {
   position: fixed !important;
   inset: 0;
   width: 100vw !important;
   height: 100vh !important;
-  object-fit: contain;        /* show full image, no crop */
+  object-fit: contain;
   background: #000;
   z-index: 10000;
   margin: 0 !important;
@@ -547,9 +507,144 @@
   padding: 1rem;
 }
 
-/* Prevent background scrolling */
 body.demo-fullscreen-open {
   overflow: hidden;
+}
+
+/* =========================
+   FULLSCREEN OVERLAY
+   ========================= */
+
+.md-typeset img.demo-fullscreen {
+  position: fixed !important;
+  inset: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  object-fit: contain;        /* show full image */
+  background: #000;
+  z-index: 10000;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 1rem;
+
+  /* Subtle motion effect */
+  animation: demoPan 10s ease-in-out infinite alternate;
+}
+
+/* Prevent background scroll */
+body.demo-fullscreen-open {
+  overflow: hidden;
+}
+
+/* Close button (X) */
+.demo-close-btn {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  font-size: 36px;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+  z-index: 10001;
+  background: rgba(0,0,0,0.6);
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.demo-close-btn:hover {
+  background: rgba(255,255,255,0.2);
+  transform: scale(1.1);
+}
+
+/* =========================
+   SUBTLE MOVEMENT ANIMATION
+   ========================= */
+@keyframes demoPan {
+  0%   { transform: translate(0, 0); }
+  50%  { transform: translate(-10px, -6px); }
+  100% { transform: translate(10px, 6px); }
+}
+
+/* =========================
+   FULLSCREEN OVERLAY
+   ========================= */
+
+.md-typeset img.demo-fullscreen {
+  position: fixed !important;
+  inset: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  object-fit: contain;
+  background: #000;
+  z-index: 10000;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 1rem;
+
+  /* Subtle motion */
+  animation: demoPan 10s ease-in-out infinite alternate;
+}
+
+/* Lock background scroll */
+body.demo-fullscreen-open {
+  overflow: hidden;
+}
+
+/* Close (X) */
+.demo-close-btn {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  font-size: 36px;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+  z-index: 10001;
+  background: rgba(0,0,0,0.6);
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.demo-close-btn:hover { background: rgba(255,255,255,0.2); }
+
+/* Prev / Next buttons */
+.demo-nav-btn {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 48px;
+  color: #fff;
+  cursor: pointer;
+  z-index: 10001;
+  background: rgba(0,0,0,0.5);
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+}
+.demo-nav-btn:hover { background: rgba(255,255,255,0.2); }
+
+.demo-prev { left: 16px; }
+.demo-next { right: 16px; }
+
+/* Subtle motion */
+@keyframes demoPan {
+  0%   { transform: translate(0, 0); }
+  50%  { transform: translate(-10px, -6px); }
+  100% { transform: translate(10px, 6px); }
 }
 
 

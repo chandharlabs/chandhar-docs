@@ -31,8 +31,8 @@ Deep Radio is an SDR based platform, designed:
 
 ## Product
 
-![Demo](images/deepradio.gif)
 ![Demo](images/deepradio1.jpeg)
+![Demo](images/deepradio2.jpg)
 
 ---
 ## Videos

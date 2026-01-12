@@ -123,9 +123,9 @@ Moreover, the Five-Nines Radio is designed to support:
 
 ## Product
 
-![Demo](images/5ninesradio.gif)
-![Demo](images/5nines1.jpg)
 
+![Demo](images/5nines1.jpg)
+![Demo](images/5nines2.jpg)
 
 
 

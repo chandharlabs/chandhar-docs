@@ -12,9 +12,8 @@ wireless communication fundamentals.
 ---
 
 ## Product
-
-![Demo](images/wiguy.gif)
 ![Demo](images/wiguy1.jpg)
+![Demo](images/wiguy2.jpg)
 
 ---
 
