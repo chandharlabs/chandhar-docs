@@ -461,7 +461,7 @@
   float: left;
   width: 28%;              /* 3 per row (change to 48% for 2 per row) */
   margin: 0.75rem 1%;
-  height: 220px;
+  height: 180px;
   object-fit: cover;      /* uniform card size */
   border-radius: none;
   cursor: pointer;
