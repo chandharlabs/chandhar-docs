@@ -484,40 +484,7 @@
   }
 }
 
-/* =========================
-   CLICK → FULLSCREEN IMAGE
-   (No zoom, real fullscreen)
-   ========================= */
 
-/* =========================
-   FULLSCREEN IMAGE VIEWER
-   ========================= */
-
-/* Normal state */
-.md-typeset img[alt="Demo"] {
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-/* Fullscreen state */
-.md-typeset img.fullscreen {
-  position: fixed !important;
-  inset: 0;
-  width: 100vw !important;
-  height: 100vh !important;
-  object-fit: contain;
-  background: #000;
-  z-index: 10000;
-  margin: 0 !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-  padding: 1rem;
-}
-
-/* Prevent page scroll when fullscreen */
-body.fullscreen-open {
-  overflow: hidden;
-}
 /* =========================
    PRODUCT MEDIA UNIFORM SIZE
    ========================= */
