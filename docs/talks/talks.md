@@ -1,5 +1,17 @@
 # Talks
 
+**"6G Technologies,"** Faculty Devlopment Program(FDP) on Hands On: To study a communication system using Deep Radio, EGS PILLAY Engineering College, Nagapattinam, 12 DEC 2025.
+
+**"Experimental 5G: Testbeds and the Roadmap to 6G,"** Faculty Devlopment Program(FDP) on Multicarrier Modulation Techniques for 6G wireless Communications, Aditya College Of Engineering, Surampalem, 08 Dec 2025.
+
+**"5G/6G Enabled Smart Farming: Use Cases and Applications & Drone Communication,"** ATAL FDP  on Next Generation Communication for 6G and Beyond, IIT Dhanbad, 05 Dec 2025.
+
+**"ML/DL based modulation classification: Hands-On,"** Faculty Development Program On Application of Artificial Intelligence in 5G/6G Communication Systems Under the banner of Electronics and ICT academy, National Institute of Technology Patna, 30 Nov 2025.
+
+**"Advanced Design and Optimization Techniques for Next-Generation Antennas,"** Professional Development Programme (PDP), Sri Sairam Engineering College, Chennai, 02 Nov 2025.   
+
+**"Design and Performance Optimization of Next-Generation Antennas for 5G/6G Communication Systems,"** ATAL Faculty Development Program (FDP), St. Anne’s College of Engineering and Technology (SANCET), Panruti, 23 June 2025.
+
 **"5G Powered Smart Farming: Use Cases and Applications,"** Industrial Lecture, EGS Pillai College of Engineering, Nagapattinam, Tamil Nadu, 05 March 2025.
 
 **"Drones in 5G & Beyond: A 3GPP Standards Perspective,"** Faculty Development Programme on “V2X and UAV Communications in 6G: Recent Trends and Enabling technologies”, National Institute of Technology Patna, Bihar, 28 February 2025.
