@@ -33,7 +33,7 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 | Protocol Stack | NSA: EPC, gNB, eNB: 3GPP Rel. 15<br>SA: 5G Core, gNB: 3GPP Rel. 17 |
 | eNB Bandwidth | 5, 10, and 20 MHz |
 | gNB Bandwidth (Sub‑6 GHz) | 5, 10, 20, and 40 MHz |
-| Duplex Mode | eNB – FDD, gNB – TDD |
+| Duplex Mode | eNB – FDD, gNB – TDD & FDD |
 | Operating Band | B7 & n78 (2600 MHz & 3600 MHz) |
 | MIMO Support | 1x1 (eNB), 2x2 (gNB) |
 
@@ -55,10 +55,10 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 | **IoT Bridge** | Yes | Yes | Yes | - |
 | **gNB (5G NodeB)** | NSA: Rel 15<br>SA: Rel 17 | SA: Rel 17 | SA: Rel 17 | SA: Rel 17 (Emulated) |
 | **eNB (LTE NodeB)** | Yes (Rel 15) | – | – | – |
-| **Operating Frequency Band** | NSA: B7 & n78<br>(2600 MHz & 3600 MHz)<br>SA: n78 | n78 (3600 MHz) | n78 (3600 MHz) | – |
+| **Operating Frequency Band** | NSA: B7 & n78<br>(2600 MHz & 3600 MHz)<br>SA: n78 (TDD) & n7 (FDD)| n78 (3600 MHz) | n78 (3600 MHz) | – |
 | **eNB Bandwidth** | 5, 10, 20 MHz | – | – | – |
 | **gNB Bandwidth (Sub‑6 GHz)** | 20, 40 MHz | 20, 40 MHz | 20, 40 MHz | Emulated |
-| **Duplexing Mode** | eNB: FDD<br>gNB: TDD | gNB: TDD | gNB: TDD | Emulated |
+| **Duplexing Mode** | eNB: FDD<br>gNB: TDD | gNB: TDD & FDD | gNB: TDD & FDD| Emulated |
 | **MIMO Support** | 2×2 | 2×2 | 2×2 | - |
 | **Typical Range** | 70 ft (LoS)<br>30 ft (NLoS) | 70 ft (LoS)<br>30 ft (NLoS) | 70 ft (LoS)<br>30 ft (NLoS) | Lab Only |
 | **Programmed SIM Cards** | 10 | 10 | 10 | - |
