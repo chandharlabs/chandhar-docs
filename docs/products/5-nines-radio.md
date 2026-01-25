@@ -58,7 +58,7 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 | **Operating Frequency Band** | NSA: B7 & n78<br>(2600 MHz & 3600 MHz)<br>SA: n78 (TDD) & n7 (FDD)| n78 (3600 MHz) | n78 (3600 MHz) | – |
 | **eNB Bandwidth** | 5, 10, 20 MHz | – | – | – |
 | **gNB Bandwidth (Sub‑6 GHz)** | 5, 10, 15, 20, 25, 30, 40 MHz | 5, 10, 15, 20, 25, 30, 40 MHz | 5, 10, 15, 20, 25, 30, 40 MHz | - |
-| **Duplexing Mode** | eNB: FDD<br>gNB: TDD | gNB: TDD & FDD | gNB: TDD & FDD| - |
+| **Duplexing Mode** | eNB: FDD<br>gNB: TDD & FDD| gNB: TDD & FDD | gNB: TDD & FDD| - |
 | **MIMO Support** | 2×2 | 2×2 | 2×2 | - |
 | **Typical Range** | 70 ft (LoS)<br>30 ft (NLoS) | 70 ft (LoS)<br>30 ft (NLoS) | 70 ft (LoS)<br>30 ft (NLoS) | - |
 | **Programmed SIM Cards** | 5| 5 | 5 | - |
