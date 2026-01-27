@@ -667,46 +667,6 @@ body.demo-fullscreen-open {
 }
 
 
-/* ===============================
-   MOBILE DRAWER COLOR FIX (FINAL)
-   =============================== */
-
-@media (max-width: 768px) {
-
-  /* Drawer background */
-  .md-nav--primary {
-    background-color: #ffffff !important;
-  }
-
-  /* Drawer header (YESDR title area) */
-  .md-nav__title {
-    background-color: #004aad !important;
-    color: #ffffff !important;
-  }
-
-  /* Drawer links text */
-  .md-nav__item a {
-    color: #000000 !important;
-  }
-
-  /* Remove dark overlay tint */
-  .md-overlay {
-    background-color: rgba(0, 0, 0, 0.15) !important;
-  }
-}
-
-
-/* =========================================
-   FORCE SAME COLOR ACROSS ALL SCHEMES
-   ========================================= */
-
-[data-md-color-scheme] .md-header,
-[data-md-color-scheme] .md-tabs,
-[data-md-color-scheme] .md-nav__title {
-  background-color: #004aad !important;
-  color: #ffffff !important;
-}
-
 /* Mobile drawer background */
 [data-md-color-scheme] .md-nav--primary {
   background-color: #ffffff !important;
