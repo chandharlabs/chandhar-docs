@@ -718,3 +718,25 @@ body.demo-fullscreen-open {
 }
 
 
+/* =========================================
+   OVERRIDE MATERIAL COLOR VARIABLES (FINAL)
+   ========================================= */
+
+:root {
+  --md-primary-fg-color: #004aad;
+  --md-primary-fg-color--dark: #004aad;
+  --md-primary-fg-color--light: #004aad;
+
+  --md-primary-bg-color: #004aad;
+  --md-primary-bg-color--dark: #004aad;
+}
+
+/* Apply to all schemes (mobile + desktop) */
+[data-md-color-scheme] {
+  --md-primary-fg-color: #004aad;
+  --md-primary-fg-color--dark: #004aad;
+  --md-primary-fg-color--light: #004aad;
+
+  --md-primary-bg-color: #004aad;
+  --md-primary-bg-color--dark: #004aad;
+}
