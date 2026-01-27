@@ -21,8 +21,8 @@ theme:
     - content.image.zoom
   palette: []
     - scheme: default
-      primary: indigo
-      accent: amber
+    - primary: indigo
+    - accent: amber
       
 extra:
   generator: false
