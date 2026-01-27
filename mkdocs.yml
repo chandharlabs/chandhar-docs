@@ -20,9 +20,9 @@ theme:
     - toc.integrate
     - content.image.zoom
   palette: []
-#    - scheme: default
-#      primary: indigo
-#      accent: amber
+    - scheme: default
+      primary: indigo
+      accent: amber
       
 extra:
   generator: false
