@@ -19,7 +19,7 @@ theme:
     - content.code.copy
     - toc.integrate
     - content.image.zoom
-  palette: []
+  palette: 
     - scheme: default
     - primary: indigo
     - accent: amber
