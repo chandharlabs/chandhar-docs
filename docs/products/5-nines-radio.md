@@ -1,4 +1,4 @@
-# 5‑Nines Radio – 5G Testbed
+# 5‑Nines Radio<sup>®</sup> – 5G Testbed
 
 !!! info "Why the name Five‑Nines Radio?"
     **Five‑Nines Radio** refers to a 5G radio communication system designed
