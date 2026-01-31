@@ -28,7 +28,7 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 
 | Components | Specifications |
 |-----------|----------------|
-| Components | CN Emulator<br>eNB Emulator<br>gNB Emulator<br>eNB/gNB Transceiver – Sub‑6 GHz<br>5G IoT Bridge<br>5G Smartphone<br>Programmed SIM cards |
+| Components | CN Emulator<br>eNB Emulator<br>gNB Emulator<br>eNB/gNB Transceiver – Sub‑6 GHz<br>5G IoT Bridge<br>5G Smartphone<br>Portable Spectrum Analyzer<br>Five-Nines Radio Android App<br>Programmed SIM cards |
 | CN, gNB, eNB Emulator Hardware | I5/I7/I9 Processor, 1 TB HDD, 16 GB RAM |
 | Protocol Stack | NSA: EPC, gNB, eNB: 3GPP Rel. 15<br>SA: 5G Core, gNB: 3GPP Rel. 17 |
 | eNB Bandwidth | 5, 10, and 20 MHz |
@@ -55,6 +55,8 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 | **IoT Bridge** | 1 | 1 | 1 | - |
 | **gNB (5G NodeB)** | NSA: Rel 15<br>SA: Rel. 17 | SA: Rel. 17 | SA: Rel. 17 | SA: Rel. 17 |
 | **eNB (LTE NodeB)** | 1 | – | – | – |
+| **Portable Spectrum Analyzer** | 1 | 1 | 1 | - |
+| **Five-Nines Radio Android App** | 1 | 1 | 1 | - | 
 | **Operating Frequency Band** | NSA: B7 & n78<br>(2600 MHz & 3600 MHz)<br>SA: n78 (TDD) & n7 (FDD)| n78 (3600 MHz) | n78 (3600 MHz) | – |
 | **eNB Bandwidth** | 5, 10, 20 MHz | – | – | – |
 | **gNB Bandwidth (Sub‑6 GHz)** | 5, 10, 15, 20, 25, 30, 40 MHz | 5, 10, 15, 20, 25, 30, 40 MHz | 5, 10, 15, 20, 25, 30, 40 MHz | - |
