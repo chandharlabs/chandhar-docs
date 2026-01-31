@@ -18,7 +18,7 @@
 - Five-Nines Radio – 5G Non-Stand Alone (NSA) mode
 - Five-Nines Radio – 5G Stand Alone (SA) mode
 
-In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G base station (i.e. eNB), a 5G base station (i.e. gNB), and a 4G core network (CN), i.e. evolved packet core (EPC). All control-plane traffic is handled by the eNB whereas the user-plane traffic is handled by the gNB. In SA mode, both the control-plane and user-plane traffic are handled by the gNB and 5G core network.
+In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G base station (i.e. eNB), a 5G base station (i.e. gNB), and a 4G core network (CN), i.e. evolved packet core (EPC). All control-plane traffic is handled by the eNB whereas the user-plane traffic is handled by both eNB and gNB. In contrast, SA architecture eliminates LTE dependency, with the gNB managing both control and user planes in conjunction with the 5G Core (5GC).
 
 
 
