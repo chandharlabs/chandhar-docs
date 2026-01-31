@@ -4,9 +4,8 @@
     **Five‑Nines Radio** refers to a 5G radio communication system designed
     to achieve a high level of reliability and availability, often measured
     as **“five nines” (99.999% uptime)**. The main objective is to engineer the radio system to maintain
-    connectivity and communication capabilities with **minimal downtime**,
-    ensuring reliable operation even in **challenging environments or
-    adverse conditions**.
+    connectivity and communication capabilities with minimal downtime,
+    ensuring reliable operation even in challenging environments or adverse conditions.
 
 
 **5‑Nines Radio** is a high-reliability 5G testbed platform designed to build, test, and validate URLLC, eMBB, and massive M2M (mMTC) communication scenarios with end-to-end control across radio, core, and edge networks.
