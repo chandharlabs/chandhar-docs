@@ -111,7 +111,7 @@ Moreover, the Five-Nines Radio is designed to support:
 
 
 
-- **Training**: One week of training every six months for three years at either customer premises or Chandhar Research Labs, Chennai. Support to faculty members in drafting lab, skilling, and tutorial manual for the proposed experiments will be provided.
+- **Training**: Training every six months for three years at either customer premises or Chandhar Research Labs. Support to faculty members in drafting lab, skilling, and tutorial manual for the proposed experiments will be provided.
 
 - **Internships**: Internship opportunities will be provided for eligible UG and PG students in Wireless Communications, 5G, IoT, and RF Machine Learning. The selected students will be assigned to work on the following topics ranging from 2 to 6 months.
 
