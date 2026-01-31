@@ -9,8 +9,7 @@
     adverse conditions**.
 
 
-**5‑Nines Radio** is a high‑reliability 5G testbed platform designed to evaluate
-ultra‑reliable low‑latency communication (URLLC) scenarios.
+**5‑Nines Radio** is a high-reliability 5G testbed platform designed to build, test, and validate URLLC, eMBB, and massive M2M (mMTC) communication scenarios with end-to-end control across radio, core, and edge networks.
 
 
 
