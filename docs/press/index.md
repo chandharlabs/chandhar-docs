@@ -24,7 +24,7 @@ in wireless communications and related domains.
 
 ## Standards & Specifications
 
-- [**Your Extensible Software‑Defined Radio (YESDR) Standard**](yesdr.md): A modular extensible SDR standard for education, research, and system prototyping.  
+- [**Your Extensible Software‑Defined Radio (YESDR)**](yesdr.md): A modular extensible SDR standard framework for education, research, and system prototyping.  
 
 
 
