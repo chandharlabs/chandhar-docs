@@ -5,8 +5,6 @@ domains of 5G, AI‑driven wireless systems, and advanced communication technolo
 
 ---
 
-
-
 - [**Deep Learning for Wireless**](dl-wireless.md):
 An intensive hands‑on training programme focusing on applying
 machine learning and deep learning techniques to wireless communication systems.  
