@@ -1,7 +1,6 @@
 # Products
 
-Chandhar Research Labs Pvt. Ltd. develops **research‑grade platforms and testbeds**
-for wireless communications, 5G/6G systems, IoT, and AI‑driven networks.
+Chandhar Research Labs Pvt. Ltd. develops research‑grade platforms and testbeds for wireless communications, 5G/6G systems, IoT, and AI‑driven networks.
 
 ---
 
@@ -19,7 +18,7 @@ for wireless communications, 5G/6G systems, IoT, and AI‑driven networks.
 !!! info "To buy"
     For purchase, pricing, and demos, contact:
 
-    Email: **info@chandhar-labs.com**  
+    Email: info@chandhar-labs.com
 
-    Kindly mention the **product name** in your message.
+    Kindly mention the product name in your message.
 
