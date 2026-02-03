@@ -1,7 +1,7 @@
 # Chandhar Research Press
 
-**Chandhar Research Press** is the publishing imprint of
-**Chandhar Research Labs Pvt. Ltd.**, dedicated to disseminating
+Chandhar Research Press is the publishing imprint of
+Chandhar Research Labs Pvt. Ltd., dedicated to disseminating
 high‑quality research outputs, academic books, and technical standards
 in wireless communications and related domains.
 
@@ -16,9 +16,9 @@ in wireless communications and related domains.
 
 ## Books
 
-- [**LTE Hands‑On**](lte-hands-on.md): A comprehensive laboratory manual for practical understanding of **4G LTE systems** using SDR‑based experimentation.  
+- [**LTE Hands‑On**](lte-hands-on.md): A comprehensive laboratory manual for practical understanding of 4G LTE systems using SDR‑based experimentation.  
 
-- [**5G NR Hands‑On**](5g-nr-hands-on.md): An end‑to‑end practical guide to **5G Standalone and Non‑Standalone networks** with real testbeds and use‑case labs.  
+- [**5G NR Hands‑On**](5g-nr-hands-on.md): An end‑to‑end practical guide to 5G Standalone and Non‑Standalone networks with real testbeds and use‑case labs.  
 
 ---
 
