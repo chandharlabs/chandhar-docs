@@ -1,7 +1,6 @@
 # Deep Learning for Wireless
 
-This workshop introduces the application of
-**deep learning techniques to wireless communication systems**.
+This workshop introduces the application of deep learning techniques to wireless communication systems.
 
 ---
 
