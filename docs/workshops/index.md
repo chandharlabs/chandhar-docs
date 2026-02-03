@@ -1,8 +1,7 @@
 # Workshops
 
-Chandhar Research Labs Pvt. Ltd. conducts **hands‑on, research‑oriented workshops**
-for students, faculty, researchers, and industry professionals in the
-domains of **5G, AI‑driven wireless systems, and advanced communication technologies**.
+Chandhar Research Labs Pvt. Ltd. conducts hands‑on, research‑oriented workshops for students, faculty, researchers, and industry professionals in the
+domains of 5G, AI‑driven wireless systems, and advanced communication technologies.
 
 ---
 
@@ -17,10 +16,10 @@ RAN, Core, network slicing, MEC, and real testbeds.
 
 
 !!! info "Workshops & Training – Contact"
-    For organizing **workshops, FDPs, hands‑on sessions, and customized training programmes**, please get in touch:
+    For organizing workshops, FDPs, hands‑on sessions, and customized training programmes, please get in touch:
 
-    Email: **info@chandhar-labs.com**  
+    Email: info@chandhar-labs.com
 
-    Kindly include the **workshop topic, expected duration, and audience (UG/PG/Faculty/Industry)**.
+    Kindly include the workshop topic, expected duration, and audience (UG/PG/Faculty/Industry).
 
 
