@@ -1,6 +1,6 @@
 # Research
 
-Research at **Chandhar Research Labs Pvt. Ltd.** focuses on
+Research at Chandhar Research Labs focuses on
 next‑generation wireless communication systems, intelligent networks,
 and secure, spectrum‑efficient technologies.
 
