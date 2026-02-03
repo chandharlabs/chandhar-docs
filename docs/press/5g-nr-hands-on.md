@@ -22,25 +22,25 @@ Prabhu Chandhar, Chandhar Research Labs Pvt. Ltd., BaSig Wireless Laboratories P
 
 ## Abstract
 
-**“5G NR Hands‑On”** is a comprehensive laboratory manual designed to provide
-practical, end‑to‑end insights into **5G Standalone (SA) and Non‑Standalone (NSA)**
+“5G NR Hands‑On” is a comprehensive laboratory manual designed to provide
+practical, end‑to‑end insights into 5G Standalone (SA) and Non‑Standalone (NSA)
 mobile networks.
 
 Aligned with industry deployments and academic research needs, the book
-enables learners to analyze the complete **5G protocol stack** — from UE
+enables learners to analyze the complete 5G protocol stack — from UE
 registration and PDU session establishment to traffic flow analysis using
-**5G Service‑Based Architecture (SBA)** with PCAP and REST APIs.
+5G Service‑Based Architecture (SBA) with PCAP and REST APIs.
 
-The book covers **PHY, MAC, RLC, SDAP, PFCP, NGAP, and RRC procedures**, including
+The book covers PHY, MAC, RLC, SDAP, PFCP, NGAP, and RRC procedures, including
 DU–CU functional split architecture, PRACH analysis, MIMO channel modeling,
 link adaptation, TDD slot configuration, and performance evaluation.
 
-It extends to real‑world integrations such as **network slicing, IoT using MQTT,
-Raspberry Pi interfacing with 5G modems**, REST‑API‑based core interaction,
+It extends to real‑world integrations such as network slicing, IoT using MQTT,
+Raspberry Pi/Jetson Nano interfacing with 5G modems, REST‑API‑based core interaction,
 and machine‑type communications.
 
 By combining waveform generation, air‑interface characterization,
-protocol tracing, and benchmarking for **SISO and 2×2 MIMO**, the book
+protocol tracing, and benchmarking for SISO and 2×2 MIMO, the book
 provides full‑spectrum practical exposure for universities, R&D labs,
 and industry training programs.
 
