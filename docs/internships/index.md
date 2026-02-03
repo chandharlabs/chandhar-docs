@@ -1,7 +1,6 @@
 # Internships
 
-Internship positions are available for **UG and PG students** in the areas of
-**Wireless Communications, 5G, IoT, and RF Machine Learning**.
+Internship positions are available for UG and PG students in the areas of Wireless Communications, 5G, IoT, and RF Machine Learning.
 
 ---
 
@@ -23,7 +22,7 @@ Internship positions are available for **UG and PG students** in the areas of
 ---
 
 !!! success "How to Apply"
-      Send your **CV** and **area of interest** to: **info@chandhar-labs.com**
+      Send your CV and area of interest to: info@chandhar-labs.com
 
 
 
