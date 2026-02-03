@@ -1,12 +1,12 @@
 # Chandhar Research Labs Pvt. Ltd.
 
-**Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies** through  Academic and Industry Collaboration, Research, Product Development, and Training.
+Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies through  Academic and Industry Collaboration, Research, Product Development, and Training.
 
 ---
 
 ## Who We Are
 
-**Chandhar Research Labs Pvt. Ltd.**, established in 2018 in Mayiladuthurai, Tamil Nadu, India, focuses on developing advanced solutions for challenging problems in the field of telecommunications through research, consultancy, and product development.
+Chandhar Research Labs Pvt. Ltd., established in 2018 in Mayiladuthurai, Tamil Nadu, India, focuses on developing advanced solutions for challenging problems in the field of telecommunications through research, consultancy, and product development.
 
 The company develops customized software and communication equipment for 5G cellular and drone communication systems and actively collaborates with R&D laboratories and academic institutions in next‑generation wireless technologies.
 
@@ -27,7 +27,7 @@ The company develops customized software and communication equipment for 5G cell
 
 ## Products
 
-Our platforms are designed for **academic institutions, R&D labs, and industry**.
+Our platforms are designed for academic institutions, R&D labs, and industry.
 
 - **5‑Nines Radio** – End‑to‑End 4G/5G Testbed  
 - **Deep Radio** – AI‑Driven Wireless Testbed  
@@ -57,7 +57,7 @@ Our research spans fundamental and applied areas in next‑generation wireless c
 
 ## Publications
 
-Our work is published in **IEEE journals and international conferences**.
+Our work is published in IEEE journals and international conferences.
 
 
 [Publications](publications/index.md) 
@@ -65,7 +65,7 @@ Our work is published in **IEEE journals and international conferences**.
 ---
 
 ## Chandhar Research Press
-**Chandhar Research Press** is the publishing imprint of **Chandhar Research Labs Pvt. Ltd.**  
+Chandhar Research Press is the publishing imprint of Chandhar Research Labs Pvt. Ltd.  
  
 [More about Chandhar Research Press](press/index.md)
 
@@ -110,10 +110,8 @@ We offer internships and research collaboration opportunities for:
 
 
 !!! info "Contact Us"
-    Interested in **collaboration, training, research, or product deployment**?  
+    Interested in collaboration, training, research, or product deployment?  
     We’d be happy to hear from you.
 
     Email: **info@chandhar-labs.com**    
-    Location: **Mayiladuthurai, Tamil Nadu, India**
-
 
