@@ -126,16 +126,14 @@ Click on images to view larger.
 ![Demo](images/5nines1.jpg){data-caption="Five-Nines Radio Infrastructure at KL University, Hyderabad"}
 ![Demo](images/5nines2.jpg){data-caption="Five-Nines Radio Infrastructure at KL University, Hyderabad"}
 ![Demo](images/5nines20.jpeg){data-caption="Five-Nines Radio Infrastructure at Mahindra University, Hyderabad"}
-![Demo](images/5nines7.png)
 ![Demo](images/5nines18.jpeg){data-caption="Five-Nines Radio Infrastructure at KL University, Vijayawada"}
 ![Demo](images/5nines19.jpeg){data-caption="Five-Nines Radio Infrastructure at KL University, Vijayawada"}
-![Demo](images/5nines7.png)
-![Demo](coregif.gif)            
-![Demo](gnb_phy.gif)     
-![Demo](spectrum_tdd.gif)
-![Demo](spectrum_fdd.gif)
-![Demo](gnbanalysisgif.gif) 
-![Demo](gnb_phyla.gif)   
+![Demo](images/coregif.gif){data-caption="Five-Nines Radio - 5G Core"}
+![Demo](images/gnb_phy.gif){data-caption="Five-Nines Radio - gNB PHY Layer"}
+![Demo](images/gnb_phyla.gif){data-caption="Five-Nines Radio - gNB Link Adaptation"}
+![Demo](images/gnbanalysisgif.gif){data-caption="Five-Nines Radio - gNB PHY-MAC-RLC-PDCP Analysis"}
+![Demo](images/spectrum_tdd.gif){data-caption="Five-Nines Radio - Spectrum Activity with TDD 40 MHz Bandwidth"}
+![Demo](images/spectrum_fdd.gif){data-caption="Five-Nines Radio - Spectrum Activity with FDD 20 MHz Bandwidth"}
 
 ---
 
