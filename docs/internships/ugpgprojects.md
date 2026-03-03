@@ -1,20 +1,20 @@
 # UG Projects – 2026
 
-| S.No | Project Title      | Corrected Domain                                                                 | Institute                          | Status   |
-|------|-------------------|----------------------------------------------------------------------------------|------------------------------------|----------|
-| 1    | 5G Arm Control     | 5G-enabled Robotics                     | KL University, Vijayawada          | Ongoing  |
-| 2    | 5G Security        | 5G Core Security            | KL University, Vijayawada          | Ongoing  |
-| 3    | Digital Twin       | Digital Twin over 5G      | KL University, Vijayawada          | Ongoing  |
-| 4    | Human Detection    | Video Processing                                     | KL University, Vijayawada          | Ongoing  |
-| 5    | IoT Network        | 5G Enabled IoT Communication                               | KL University, Vijayawada          | Ongoing  |
-| 6    | Spectrum Sensing   | RF Spectrum                            | KL University, Vijayawada          | Ongoing  |
-| 7    | YESDR              | 5G End-to-End Network                                    | KL University, Vijayawada          | Ongoing  |
-| 8    | DOA Analysis       | Direction of Arrival (DOA) Estimation     | Mahindra University                | Ongoing  |
+| S.No | Student's Name      | Institute                     | Project Name        | Status   |
+|------|-------------------|------------------------------|--------------------|----------|
+| 1    | Husen Basha       | KL University, Vijayawada    | 5G Arm Control     | Ongoing  |
+| 2    | Ruthwik      | KL University, Vijayawada    | 5G Security        | Ongoing  |
+| 3    | Indhuvardhini       | KL University, Vijayawada    | Digital Twin       | Ongoing  |
+| 4    | Sudarshan        | KL University, Vijayawada    | Human Detection    | Ongoing  |
+| 5    | Amith       | KL University, Vijayawada    | IoT Network        | Ongoing  |
+| 6    | Sreekar    | KL University, Vijayawada    | Spectrum Sensing   | Ongoing  |
+| 7    | Shiva Kumar      | KL University, Vijayawada    | YESDR              | Ongoing  |
+| 8    | Rikshit, Sruthi        | Mahindra University          | DoA Analysis       | Ongoing  |
 
 ---
 
 # PG Projects – 2026
 
-| S.No | Project Title | Corrected Domain                                                                 | Institute                          | Status   |
-|------|--------------------|----------------------------------------------------------------------------------|------------------------------------|----------|
-| 1    | YESDR        | 5G End-to-End Network | Mahindra University, Hyderabad     | Ongoing  |
+| S.No | Student Name     | Institute                          | Project Name | Status   |
+|------|------------------|------------------------------------|--------------|----------|
+| 1    | Shivani, Pranathi       | Mahindra University, Hyderabad     | YESDR       | Ongoing  |
