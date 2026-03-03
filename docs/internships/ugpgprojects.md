@@ -8,7 +8,7 @@
 | 4    | Sudarshan        | KL University, Vijayawada    | Human Detection    | Ongoing  |
 | 5    | Amith       | KL University, Vijayawada    | IoT Network        | Ongoing  |
 | 6    | Sreekar    | KL University, Vijayawada    | Spectrum Sensing   | Ongoing  |
-| 7    | Shiva Kumar      | KL University, Vijayawada    | YESDR              | Ongoing  |
+| 7    | P Pattabiram, Shiva Kumar      | KL University, Vijayawada    | YESDR              | Ongoing  |
 | 8    | Rikshit, Sruthi        | Mahindra University          | DoA Analysis       | Ongoing  |
 
 ---
