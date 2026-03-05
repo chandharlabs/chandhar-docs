@@ -1,6 +1,6 @@
 # Talks
 
-**"Experimental 5G: Testbeds and the Roadmap to 6G,"** ATAL Faculty Development Program  on Next Generatob RF IC Design for 5G: Architectures, Challenges, and Industry Relevant Applications, Acharya Institute of Technology, Bangalore, 18 Feb 2026.
+**"Experimental 5G: Testbeds and the Roadmap to 6G,"** ATAL Faculty Development Program  on Next Generation RF IC Design for 5G: Architectures, Challenges, and Industry Relevant Applications, Acharya Institute of Technology, Bangalore, 18 Feb 2026.
 
 **"Hands On: To study a communication system using Deep Radio,"** Faculty Devlopment Program on 6G Technologies, EGS Pillay Engineering College, Nagapattinam, 12 December 2025.
 
