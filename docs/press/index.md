@@ -20,7 +20,7 @@ in wireless communications and related domains.
 
 - [**5G NR Hands‑On**](5g-nr-hands-on.md): An end‑to‑end practical guide to 5G Standalone and Non‑Standalone networks with real testbeds and use‑case labs.  
 
-- **YESDR: Your Extensible Software Defined Radio**: A standard-oriented guide presenting the architecture, protocol framework, and reference implementation of the YESDR platform, enabling researchers, students, and developers to build, experiment with, and extend end-to-end software-defined radio networks using modular and open SDR technologies.
+- **YESDR: Your Extensible Software Defined Radio**: A standard-oriented guide presenting the architecture, protocol framework, and reference implementation of the [YESDR](https://yesdr-standard.org) platform.
 
 ---
 
