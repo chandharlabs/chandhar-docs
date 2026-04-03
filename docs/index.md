@@ -1,4 +1,4 @@
-# Chandhar Research Labs Pvt. Ltd.
+# Chandhar Research Labs
 
 Advancing Wireless Communications through  Academic and Industry Collaboration, Research and Training.
 
