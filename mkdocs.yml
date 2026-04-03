@@ -51,15 +51,15 @@ nav:
           - IoT Security: research/areas/iot-security.md
 
       
-  - Products:
-      - Products-Overview: products/index.md
-      - 5-Nines Radio (5G Testbed): products/5-nines-radio.md
-      - Deep Radio: products/deep-radio.md
-      - Wi-Guy: products/wi-guy.md
-      - Loiter (5G Drone): products/loiter.md
-      - IoT Security Testbed: products/iot-security-testbed.md
-      - 5NR-NSMEC: products/5nr-nsmec.md
-      - 5G Enabled E-Vehicle: products/5g-ev.md
+  #- Products:
+  #    - Products-Overview: products/index.md
+   #   - 5-Nines Radio (5G Testbed): products/5-nines-radio.md
+    #  - Deep Radio: products/deep-radio.md
+     # - Wi-Guy: products/wi-guy.md
+     # - Loiter (5G Drone): products/loiter.md
+     # - IoT Security Testbed: products/iot-security-testbed.md
+     # - 5NR-NSMEC: products/5nr-nsmec.md
+     # - 5G Enabled E-Vehicle: products/5g-ev.md
 
   - Workshops:
       - Workshops-Overview: workshops/index.md
@@ -72,22 +72,22 @@ nav:
       - Journal Publications: publications/journal-publications.md
       - Conference Publications: publications/conference-publications.md
 
-  - Chandhar Research Press:
-      - Chandhar Research Press-Overview: press/index.md
-      - Journals:
-        - JEWS: press/jews.md
-      - Books:
-        - LTE Hands-On: press/lte-hands-on.md
-        - 5G NR Hands-On: press/5g-nr-hands-on.md
-      - Standards & Specifications:
-        - YesDR Standard: press/yesdr.md
+  #- Chandhar Research Press:
+  #    - Chandhar Research Press-Overview: press/index.md
+  #    - Journals:
+  #      - JEWS: press/jews.md
+  #    - Books:
+  #      - LTE Hands-On: press/lte-hands-on.md
+  #      - 5G NR Hands-On: press/5g-nr-hands-on.md
+  #    - Standards & Specifications:
+  #      - YesDR Standard: press/yesdr.md
      
 
-  - Internships:
-      - Internships-Overview: internships/index.md
-      - UG & PG Projects at Collaborating Institutes: internships/ugpgprojects.md
-      - Past & Current Internships: internships/past-current.md
-      - Visitng Scholars: internships/visiting-scholars.md
+ # - Internships:
+ #     - Internships-Overview: internships/index.md
+ #     - UG & PG Projects at Collaborating Institutes: internships/ugpgprojects.md
+ #     - Past & Current Internships: internships/past-current.md
+ #     - Visitng Scholars: internships/visiting-scholars.md
       
       
 
