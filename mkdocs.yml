@@ -42,13 +42,6 @@ nav:
   - Home: index.md
   - Research:
       - Research-Overview: research/index.md
-      - Research Areas:
-          - 5G Use Cases: research/areas/5g-use-cases.md
-          - 5G Security: research/areas/5g-security.md
-  #        - 5G Enabled Drones: research/areas/5g-drones.md
-  #        - Deep Learning for Wireless: research/areas/dl-wireless.md
-          - Spectrum Management: research/areas/spectrum-management.md
-          - IoT Security: research/areas/iot-security.md
 
       
   #- Products:
