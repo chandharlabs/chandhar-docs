@@ -9,8 +9,8 @@ theme:
   font:
     text: Inter
     code: Roboto Mono
-  logo: assets/images/logo.png   # optional
-  favicon: assets/images/favicon.ico
+ # logo: assets/images/logo.png   # optional
+ # favicon: assets/images/favicon.ico
   features:
     - navigation.tabs
     - navigation.sections
